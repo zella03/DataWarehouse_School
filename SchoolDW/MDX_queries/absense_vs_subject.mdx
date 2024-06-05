@@ -1,0 +1,8 @@
+WITH
+MEMBER [Measures].[Absence rate] AS
+	'([Measures].[Number of attendance facts], [JUNK2].[Attendance Check].[absent]) 
+	/ [Measures].[Number of attendance facts]', FORMAT_STRING = '#.##%'
+SELECT
+    {[Measures].[Absence rate]} ON COLUMNS,
+    TOPCOUNT({[SUBJECT TEACHING].[Subject Name].MEMBERS}, 1, [Measures].[Absence rate]) ON ROWS
+FROM [SCHOOL DW]

@@ -1,0 +1,5 @@
+SELECT 
+{[Measures].[Number of attendance facts]} ON COLUMNS,
+NON EMPTY {[STUDENT].[Gender].[Gender].Members} ON ROWS
+FROM [SCHOOL DW]
+WHERE ([JUNK2].[Attendance Check].[absent])

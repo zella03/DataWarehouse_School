@@ -1,0 +1,885 @@
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="7c9f44c2-1f7f-4003-a5c6-ea292ba6fe16" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>SCHOOL DW</ID>
+  <MeasureGroups>
+    <MeasureGroup>
+      <ID>CHECKING ATTENDANCE</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="d4b9427a-e76c-4276-9997-749ed0dd00a3">
+          <ID>CHECKING ATTENDANCE</ID>
+          <Name>CHECKING ATTENDANCE</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="3668550b-2b52-4078-a6fb-3cfbcb262e1d">
+            <DataSourceViewID>SCHOOL DW</DataSourceViewID>
+            <TableID>dbo_CHECKING_ATTENDANCE</TableID>
+          </Source>
+          <StorageMode>Holap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+          <ProactiveCaching dwd:design-time-name="53fe29c4-6986-4cb5-876c-4fe0f3f6a5e2">
+            <SilenceInterval>PT0S</SilenceInterval>
+            <Latency>PT0S</Latency>
+            <SilenceOverrideInterval>-PT1S</SilenceOverrideInterval>
+            <ForceRebuildInterval>-PT1S</ForceRebuildInterval>
+            <Enabled>true</Enabled>
+            <AggregationStorage>MolapOnly</AggregationStorage>
+            <Source xsi:type="ProactiveCachingInheritedBinding" dwd:design-time-name="33233fd5-d02c-4e77-bbaf-c09cbc5cb1cb">
+              <NotificationTechnique>Server</NotificationTechnique>
+            </Source>
+          </ProactiveCaching>
+          <EstimatedRows>1640520</EstimatedRows>
+          <AggregationDesignID>AggregationDesign</AggregationDesignID>
+        </Partition>
+      </Partitions>
+      <AggregationDesigns>
+        <AggregationDesign>
+          <ID>AggregationDesign</ID>
+          <Name>AggregationDesign</Name>
+          <CreatedTimestamp>2024-05-20T15:35:01.806667Z</CreatedTimestamp>
+          <LastSchemaUpdate>2024-05-20T15:35:01.806667Z</LastSchemaUpdate>
+          <EstimatedRows>1640520</EstimatedRows>
+          <Dimensions>
+            <Dimension>
+              <CubeDimensionID>SUBJECT TEACHING</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>Subject Teaching ID</AttributeID>
+                  <EstimatedCount>306</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Teacher ID</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Subject Name</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Is Current</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Subject Teaching Num</AttributeID>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+            <Dimension>
+              <CubeDimensionID>STUDENT</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>Student ID</AttributeID>
+                  <EstimatedCount>504</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Class ID</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>PESEL</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Name And Surname</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Address</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Place Of Birth</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Gender</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Place Of Living</AttributeID>
+                  <EstimatedCount>2</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Contact To Parent</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Student Num</AttributeID>
+                  <EstimatedCount>504</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Age Category</AttributeID>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+            <Dimension>
+              <CubeDimensionID>JUNK2</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>Junk2 ID</AttributeID>
+                  <EstimatedCount>2</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Attendance Check</AttributeID>
+                  <EstimatedCount>2</EstimatedCount>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+            <Dimension>
+              <CubeDimensionID>TIME</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>Time ID</AttributeID>
+                  <EstimatedCount>7</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Hour</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Time Of Day</AttributeID>
+                  <EstimatedCount>7</EstimatedCount>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+            <Dimension>
+              <CubeDimensionID>DATE</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>Date ID</AttributeID>
+                  <EstimatedCount>909</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Date</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Day</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Month</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Year</AttributeID>
+                  <EstimatedCount>4</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Semester</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Day Of Week</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Month No</AttributeID>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+            <Dimension>
+              <CubeDimensionID>TEACHER</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>Teacher ID</AttributeID>
+                  <EstimatedCount>53</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>PESEL</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Name And Surname</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Address</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Gender</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Contact</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Work Experience</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Is Currently Employed</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Teacher Num</AttributeID>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+            <Dimension>
+              <CubeDimensionID>CLASS</CubeDimensionID>
+              <Attributes>
+                <Attribute>
+                  <AttributeID>Class ID</AttributeID>
+                  <EstimatedCount>21</EstimatedCount>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Class Letter</AttributeID>
+                </Attribute>
+                <Attribute>
+                  <AttributeID>Year School Starts</AttributeID>
+                </Attribute>
+              </Attributes>
+            </Dimension>
+          </Dimensions>
+          <Aggregations>
+            <Aggregation>
+              <ID>Aggregation 0</ID>
+              <Name>Aggregation 0</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>SUBJECT TEACHING</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>STUDENT</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Place Of Living</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>JUNK2</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Junk2 ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TIME</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Time ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>DATE</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Year</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TEACHER</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>CLASS</CubeDimensionID>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+            <Aggregation>
+              <ID>Aggregation 1</ID>
+              <Name>Aggregation 1</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>SUBJECT TEACHING</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>STUDENT</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Place Of Living</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>JUNK2</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Junk2 ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TIME</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>DATE</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Year</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TEACHER</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>CLASS</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Class ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+            <Aggregation>
+              <ID>Aggregation 2</ID>
+              <Name>Aggregation 2</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>SUBJECT TEACHING</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>STUDENT</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Place Of Living</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>JUNK2</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Junk2 ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TIME</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Time ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>DATE</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TEACHER</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>CLASS</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Class ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+            <Aggregation>
+              <ID>Aggregation 3</ID>
+              <Name>Aggregation 3</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>SUBJECT TEACHING</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>STUDENT</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Place Of Living</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>JUNK2</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Junk2 ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TIME</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>DATE</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Year</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TEACHER</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Teacher ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>CLASS</CubeDimensionID>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+            <Aggregation>
+              <ID>Aggregation 4</ID>
+              <Name>Aggregation 4</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>SUBJECT TEACHING</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>STUDENT</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Place Of Living</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>JUNK2</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Junk2 ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TIME</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Time ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>DATE</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TEACHER</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Teacher ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>CLASS</CubeDimensionID>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+            <Aggregation>
+              <ID>Aggregation 5</ID>
+              <Name>Aggregation 5</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>SUBJECT TEACHING</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>STUDENT</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>JUNK2</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Junk2 ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TIME</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Time ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>DATE</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Year</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TEACHER</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>CLASS</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Class ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+            <Aggregation>
+              <ID>Aggregation 6</ID>
+              <Name>Aggregation 6</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>SUBJECT TEACHING</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Subject Teaching ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>STUDENT</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Place Of Living</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>JUNK2</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Junk2 ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TIME</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>DATE</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Year</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TEACHER</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>CLASS</CubeDimensionID>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+            <Aggregation>
+              <ID>Aggregation 7</ID>
+              <Name>Aggregation 7</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>SUBJECT TEACHING</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>STUDENT</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Place Of Living</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>JUNK2</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Junk2 ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TIME</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>DATE</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Date ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TEACHER</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>CLASS</CubeDimensionID>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+            <Aggregation>
+              <ID>Aggregation 8</ID>
+              <Name>Aggregation 8</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>SUBJECT TEACHING</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>STUDENT</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>JUNK2</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Junk2 ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TIME</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Time ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>DATE</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Year</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TEACHER</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Teacher ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>CLASS</CubeDimensionID>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+            <Aggregation>
+              <ID>Aggregation 9</ID>
+              <Name>Aggregation 9</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>SUBJECT TEACHING</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>STUDENT</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Place Of Living</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>JUNK2</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Junk2 ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TIME</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>DATE</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TEACHER</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Teacher ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>CLASS</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Class ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+            <Aggregation>
+              <ID>Aggregation a</ID>
+              <Name>Aggregation a</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>SUBJECT TEACHING</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>STUDENT</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Student ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>JUNK2</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Junk2 ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TIME</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>DATE</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Year</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TEACHER</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>CLASS</CubeDimensionID>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+            <Aggregation>
+              <ID>Aggregation b</ID>
+              <Name>Aggregation b</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>SUBJECT TEACHING</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Subject Teaching ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>STUDENT</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>JUNK2</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TIME</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Time ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>DATE</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TEACHER</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>CLASS</CubeDimensionID>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+            <Aggregation>
+              <ID>Aggregation c</ID>
+              <Name>Aggregation c</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>SUBJECT TEACHING</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>STUDENT</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>JUNK2</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Junk2 ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TIME</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>DATE</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Year</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TEACHER</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Teacher ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>CLASS</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Class ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+            <Aggregation>
+              <ID>Aggregation d</ID>
+              <Name>Aggregation d</Name>
+              <Dimensions>
+                <Dimension>
+                  <CubeDimensionID>SUBJECT TEACHING</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>STUDENT</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Student ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>JUNK2</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Junk2 ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TIME</CubeDimensionID>
+                  <Attributes>
+                    <Attribute>
+                      <AttributeID>Time ID</AttributeID>
+                    </Attribute>
+                  </Attributes>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>DATE</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>TEACHER</CubeDimensionID>
+                </Dimension>
+                <Dimension>
+                  <CubeDimensionID>CLASS</CubeDimensionID>
+                </Dimension>
+              </Dimensions>
+            </Aggregation>
+          </Aggregations>
+        </AggregationDesign>
+      </AggregationDesigns>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>GETTING MARKS</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="c3831d7f-3003-4d50-8028-a52ce36a0c32">
+          <ID>GETTING MARKS</ID>
+          <Name>GETTING MARKS</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="a1115802-0218-41c4-9d0c-ce54a752338f">
+            <DataSourceViewID>SCHOOL DW</DataSourceViewID>
+            <TableID>dbo_GETTING_MARKS</TableID>
+          </Source>
+          <StorageMode>Holap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+          <ProactiveCaching dwd:design-time-name="b1a6baa8-8deb-4123-a676-9527df632486">
+            <SilenceInterval>PT0S</SilenceInterval>
+            <Latency>PT0S</Latency>
+            <SilenceOverrideInterval>-PT1S</SilenceOverrideInterval>
+            <ForceRebuildInterval>-PT1S</ForceRebuildInterval>
+            <Enabled>true</Enabled>
+            <AggregationStorage>MolapOnly</AggregationStorage>
+            <Source xsi:type="ProactiveCachingInheritedBinding" dwd:design-time-name="8a3e1caa-3fbc-45ee-a697-1c2f7893f57c">
+              <NotificationTechnique>Server</NotificationTechnique>
+            </Source>
+          </ProactiveCaching>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+  </MeasureGroups>
+</Cube>

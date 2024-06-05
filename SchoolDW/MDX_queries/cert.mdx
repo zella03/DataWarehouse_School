@@ -1,0 +1,16 @@
+WITH 
+  MEMBER [Measures].[Average Score] AS
+    IIF(
+      [Measures].[Number of grades] > 0,
+      [Measures].[Grade point average],
+      NULL
+    )
+
+SELECT
+	[Measures].[Average Score] ON COLUMNS,
+	FILTER(
+    [STUDENT].[Student ID].[Student ID].MEMBERS,
+    [Measures].[Average Score] < 4.5
+  ) ON ROWS
+FROM
+  [SCHOOL DW]

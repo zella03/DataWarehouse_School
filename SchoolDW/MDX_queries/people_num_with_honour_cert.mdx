@@ -1,0 +1,21 @@
+WITH
+SET [HighScoringStudents] AS
+  FILTER(
+    [STUDENT].[Student ID].[Student ID].MEMBERS,
+    [Measures].[Grade point average] > 4.5
+  )
+
+MEMBER [Measures].[HighScoringStudentsCount2020] AS
+  COUNT(
+    [HighScoringStudents] * [DATE].[Year].[2020]
+  )
+
+MEMBER [Measures].[HighScoringStudentsCount2022] AS
+  COUNT(
+    [HighScoringStudents] * [DATE].[Year].[2022]
+  )
+SELECT
+  {[Measures].[HighScoringStudentsCount2020],
+  [Measures].[HighScoringStudentsCount2022]} ON COLUMNS
+FROM
+  [SCHOOL DW]

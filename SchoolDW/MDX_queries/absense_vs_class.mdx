@@ -1,0 +1,10 @@
+WITH
+MEMBER [Measures].[Absence rate] AS
+	'([Measures].[Number of attendance facts], [JUNK2].[Attendance Check].[absent]) 
+	/ [Measures].[Number of attendance facts]', FORMAT_STRING = '#.##%'
+SELECT
+    {[Measures].[Absence rate]} ON COLUMNS,
+    TOPCOUNT({[CLASS].[Year School Starts].Members * [CLASS].[Class Letter].Members}, 1, [Measures].[Absence rate]) ON ROWS
+FROM [SCHOOL DW]
+WHERE
+    ([DATE].[Semester].[Summer semester], [DATE].[Year].[2023])

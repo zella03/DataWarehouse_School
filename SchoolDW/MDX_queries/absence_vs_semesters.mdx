@@ -1,0 +1,22 @@
+WITH 
+MEMBER [Measures].[Winter Absences] AS
+    '(
+        [Measures].[Number of attendance facts],
+        [DATE].[Semester].[Winter semester]
+    )'
+MEMBER [Measures].[Summer Absences] AS
+    '(
+        [Measures].[Number of attendance facts],
+        [DATE].[Semester].[Summer semester]
+    )'
+SELECT 
+{
+    [Measures].[Winter Absences],
+    [Measures].[Summer Absences]
+} ON COLUMNS
+FROM [SCHOOL DW]
+WHERE 
+(
+    [DATE].[Year].[2023],
+    [JUNK2].[Attendance Check].[absent]
+)
