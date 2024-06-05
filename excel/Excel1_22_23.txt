@@ -1,0 +1,10 @@
+23734109519|e8504m|Sonia|Fronia|female|teacher|ulica Sowia 90/88|Wejherowo|04-541|670996407|@school.com|2022-01-01|
+00124065518|e7475o|Anastazja|Petrus|female|teacher|pl. Armii Krajowej 21|Gdansk|38-503|195754517|e8504m@school.com|2022-06-26|
+75754695683|e3989e|Anita|Gabryszak|female|teacher|ul. Dabrowskiej 21/50|Straszyn|10-716|178247555|e7475o@school.com|2022-08-28|
+22418524878|e0052w|Roksana|Pych|female|teacher|al. Lesna 57|Gdynia|70-740|486096247|e3989e@school.com|2022-07-13|
+15515023762|e9420p|Antoni|Olewniczak|male|teacher|al. Galczynskiego 03|Gdansk|83-991|832587361|e0052w@school.com|2022-03-12|
+03279915175|e37765|Eliza|Wons|female|cook|ul. Pogodna 178|Sopot|89-533|466199434|e9420p@school.com|2022-07-10|
+14427560967|e19377|Mikolaj|Glowienka|male|cloakroom staff|ulica Lipowa 07/04|Wejherowo|34-688|597848796|e37765@school.com|2022-08-10|
+78582541150|e41687|Krystyna|Dryka|female|cleaner|al. Leszczynowa 04|Straszyn|26-983|051414175|e19377@school.com|2022-06-20|
+44806609099|e37490|Marcin|Bartman|male|psychologist|ulica Gornicza 66/99|Gdansk|57-032|580917638|e41687@school.com|2022-04-06|
+69157913043|e60467|Alan|Calik|male|school caretaker|al. Zdrojowa 37|Gdynia|24-994|938894447|e37490@school.com|2022-02-04|
