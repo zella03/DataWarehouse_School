@@ -1,0 +1,24 @@
+WITH 
+  MEMBER [Measures].[Average Score] AS
+    IIF(
+      [Measures].[Number of grades] > 0,
+      [Measures].[Grade point average],
+      NULL
+    )
+  MEMBER [Measures].[Class Level] AS
+    2026 - [CLASS].[Year School Starts].CurrentMember.MemberValue
+
+SELECT
+  {
+    [Measures].[Average Score],
+    [Measures].[Class Level]
+  } ON COLUMNS,
+  NON EMPTY 
+  Tail(
+	[CLASS].[Year School Starts].[Year School Starts].MEMBERS,
+	5
+	)ON ROWS
+FROM
+  [SCHOOL DW]
+WHERE
+  [DATE].[Year].CurrentMember

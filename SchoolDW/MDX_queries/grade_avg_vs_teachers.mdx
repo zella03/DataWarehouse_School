@@ -1,0 +1,50 @@
+WITH 
+  SET [LessThan2YearsTeachers] AS
+    Filter(
+      [TEACHER].[Teacher ID].[Teacher ID].MEMBERS,
+      [TEACHER].[Work Experience].CurrentMember.Name = 'up to two years' AND
+      [TEACHER].[Is Currently Employed].CurrentMember.Name = 'YES'
+    )
+
+  SET [MoreThan2YearsTeachers] AS
+    Filter(
+      [TEACHER].[Teacher ID].[Teacher ID].MEMBERS,
+      [TEACHER].[Work Experience].CurrentMember.Name = 'more than two years' AND
+      [TEACHER].[Is Currently Employed].CurrentMember.Name = 'YES'
+    )
+
+  MEMBER [Measures].[Count Less Than 2 Years] AS
+    COUNT([LessThan2YearsTeachers])
+
+  MEMBER [Measures].[Count More Than 2 Years] AS
+    COUNT([MoreThan2YearsTeachers])
+
+  MEMBER [Measures].[Total GPA Less Than 2 Years] AS
+    SUM([LessThan2YearsTeachers], [Measures].[Grade point average])
+
+  MEMBER [Measures].[Total GPA More Than 2 Years] AS
+    SUM([MoreThan2YearsTeachers], [Measures].[Grade point average])
+
+  MEMBER [Measures].[Average GPA Less Than 2 Years] AS
+    IIF(
+      [Measures].[Count Less Than 2 Years] > 0,
+      [Measures].[Total GPA Less Than 2 Years] / [Measures].[Count Less Than 2 Years],
+      NULL
+    )
+
+  MEMBER [Measures].[Average GPA More Than 2 Years] AS
+    IIF(
+      [Measures].[Count More Than 2 Years] > 0,
+      [Measures].[Total GPA More Than 2 Years] / [Measures].[Count More Than 2 Years],
+      NULL
+    )
+
+SELECT
+  {
+    [Measures].[Average GPA Less Than 2 Years],
+    [Measures].[Average GPA More Than 2 Years]
+  } ON COLUMNS
+FROM
+  [SCHOOL DW]
+WHERE
+  [DATE].[Year].[2022]

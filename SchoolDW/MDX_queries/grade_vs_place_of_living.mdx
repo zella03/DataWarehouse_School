@@ -1,0 +1,5 @@
+SELECT
+  {[Measures].[Grade point average]} ON COLUMNS,
+  ([STUDENT].[LocalizationHierarchy].[Place Of Living].Members) ON ROWS
+FROM
+  [SCHOOL DW]

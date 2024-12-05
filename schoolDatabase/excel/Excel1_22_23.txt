@@ -1,0 +1,10 @@
+77385883057|e0960m|Ada|Niklewicz|female|teacher|ul. Radosna 759|Wejherowo|53-066|783953506|@school.com|2022-01-28|
+11204700182|e3337o|Mieszko|Szkola|male|teacher|plac Zakole 99/85|Straszyn|66-486|534389799|e0960m@school.com|2022-02-25|
+28238566304|e5867e|Bartek|Drygas|male|teacher|pl. Chopina 64|Wejherowo|37-253|096394231|e3337o@school.com|2022-05-24|
+31685406728|e4864w|Piotr|Lula|male|teacher|al. Jodlowa 44/72|Straszyn|66-524|289975501|e5867e@school.com|2022-06-19|
+88279951092|e6275p|Konstanty|Juraszczyk|male|teacher|pl. Drzymaly 242|Sopot|44-212|250623253|e4864w@school.com|2022-07-31|
+05027852262|e77686|Bianka|Sztaba|female|cook|ulica Cyprysowa 28|Straszyn|22-619|820446272|e6275p@school.com|2022-08-25|
+88632984948|e63966|Dariusz|Stasko|male|cloakroom staff|ul. Kazimierza Wielkiego 810|Gdansk|91-014|249638307|e77686@school.com|2022-04-29|
+00708107205|e44814|Justyna|Amanowicz|female|cleaner|pl. Czestochowska 31/01|Gdynia|86-654|414245301|e63966@school.com|2022-03-26|
+08865917741|e38947|Jerzy|Frankow|male|psychologist|al. Borowkowa 76|Straszyn|96-473|114132537|e44814@school.com|2022-02-16|
+64294771333|e97739|Igor|Zaton|male|school caretaker|plac Magnoliowa 451|Gdansk|64-455|917465745|e38947@school.com|2022-02-23|

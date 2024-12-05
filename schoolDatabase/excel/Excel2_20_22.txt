@@ -1,0 +1,432 @@
+31479583320|s91741|Aniela|Berdzik|2010-10-08|Starachowice|female|aleja Pogodna 584|Sopot|61-489|city|263849103|qtalaj@example.net
+54263664701|s86617|Leonard|Engel|2011-01-17|Bydgoszcz|male|aleja Wroblewskiego 931|Bogatka|80-582|countryside|758697719|kornelcakala@example.net
+94805345921|s95604|Witold|Matwiejczyk|2011-02-15|Mielec|male|pl. Szkolna 01/55|Gdynia|51-756|city|834353292|agnieszkakorniak@example.net
+63352924820|s21125|Borys|Trepka|2010-12-20|Swidnik|male|plac Powstancow Slaskich 727|Wejherowo|38-403|city|163711307|ochochol@example.org
+58075569404|s76689|Damian|Wojs|2010-08-04|Laziska Gorne|male|ulica Boczna 195|Sopot|21-495|city|350805085|kaja78@example.net
+76010579123|s40226|Antoni|Peksa|2010-11-04|Bochnia|male|pl. Nowa 272|Gdynia|68-404|city|793278236|roksana61@example.org
+10231945364|s36181|Julita|Pietrasz|2011-01-30|Nowa Sol|female|plac Powstancow Wielkopolskich 62/54|Borkowo|39-713|countryside|394681619|makleseryk@example.com
+80988369172|s65006|Piotr|Wenzel|2011-02-22|Ostrow Mazowiecka|male|pl. Pocztowa 06/91|Wejherowo|86-006|city|757392690|ydabrowicz@example.org
+21081933593|s37696|Ksawery|Chlipala|2010-06-21|Swietochlowice|male|ulica Popieluszki 25/42|Borkowo|73-493|countryside|280758267|jachimczykmaciej@example.org
+22849461367|s76965|Rafal|Matela|2010-07-31|Boleslawiec|male|ul. Kilinskiego 58|Bogatka|08-695|countryside|535450037|igor76@example.com
+16117140872|s63539|Damian|Jaje|2010-08-27|Wielun|male|ulica Kalinowa 90|Wejherowo|23-123|city|464855270|cholodyandrzej@example.com
+84385169839|s11506|Urszula|Ziemann|2011-04-01|Skierniewice|female|aleja Spokojna 008|Gdynia|32-420|city|978256306|jankakonrad@example.net
+98326480213|s67724|Gustaw|Miodek|2010-12-20|Koscian|male|ulica Rozana 865|Gdansk|88-416|city|142863489|danielrutowicz@example.net
+34005888937|s38318|Lukasz|Karwan|2011-01-24|Lodz|male|pl. Niepodleglosci 343|Gdansk|34-201|city|755156703|swiatkiewiczmarcelina@example.net
+55099313709|s44851|Alex|Pawela|2010-09-06|Oswiecim|male|pl. Okrzei 100|Gdansk|49-051|city|178939608|kloskamarcin@example.com
+01250213308|s57170|Fabian|Szymanczyk|2010-12-22|Wyszkow|male|al. Wodna 77|Sopot|64-825|city|870661926|lstypula@example.net
+56593950654|s84466|Jedrzej|Lejk|2011-01-22|Bochnia|male|ul. Pszenna 27/63|Straszyn|85-174|countryside|040806624|yjagielka@example.com
+17602682066|s87775|Gaja|Bugla|2011-03-06|Slupsk|female|aleja Kaliska 35/87|Sopot|28-320|city|417083842|nkrajniak@example.org
+33211864108|s80400|Radoslaw|Goraj|2011-04-23|Raciborz|male|pl. Zbozowa 56/14|Gdansk|61-004|city|854140102|bartekidec@example.com
+78159764478|s03514|Witold|Loba|2010-10-23|Jelenia Gora|male|ul. Rynek 66|Wejherowo|34-181|city|504837398|mackowolgierd@example.org
+63299447867|s33745|Adam|Bubak|2011-02-21|Wielun|male|aleja Lipowa 90/28|Gdansk|70-496|city|813736791|mikolajsurdel@example.com
+44366266549|s91161|Maurycy|Spychaj|2011-05-05|Lomza|male|ulica Zakatek 87/52|Bogatka|23-695|countryside|020768233|olafkolendo@example.org
+99426085300|s17920|Jedrzej|Duniec|2010-11-29|Sanok|male|ulica Plater 39/12|Borkowo|48-321|countryside|477259373|ylasak@example.org
+58166165076|s85947|Anita|Zieciak|2011-04-19|Olsztyn|female|pl. Teczowa 66|Wejherowo|99-927|city|416036392|ufrankow@example.com
+86104544996|s48368|Tobiasz|Scibior|2010-08-27|Zawiercie|male|al. Towarowa 90|Bogatka|58-518|countryside|245238253|adrian26@example.org
+71938939140|s96608|Nicole|Ogonek|2010-05-30|Skierniewice|female|plac Milosza 784|Wejherowo|96-471|city|690317621|strokamariusz@example.com
+40745727233|s77197|Filip|Gabka|2010-10-25|Olkusz|male|ulica Laczna 45|Wejherowo|36-529|city|768231103|rafalwywial@example.com
+06864616217|s84294|Blazej|Luszczyk|2010-10-09|Olesnica|male|aleja Sikorskiego 185|Wejherowo|58-520|city|878909658|gbartos@example.org
+40600884876|s26176|Marcin|Gleba|2011-04-02|Wielun|male|aleja Olchowa 72|Bogatka|50-737|countryside|751483210|ibanys@example.org
+62045655892|s12552|Leonard|Handzel|2010-05-24|Walcz|male|ulica Witosa 38/65|Borkowo|16-273|countryside|325457387|olkokalina@example.net
+99507174088|s71251|Konstanty|Jedraszczyk|2010-06-06|Olsztyn|male|ul. Pszenna 265|Gdynia|35-069|city|988642288|nela40@example.net
+09753332125|s41126|Apolonia|Pietrusiewicz|2010-09-19|Marki|female|al. Poziomkowa 46/47|Borkowo|26-566|countryside|779301328|widucharkadiusz@example.net
+00279763131|s05559|Patryk|Bobak|2010-06-11|Stargard Szczecinski|male|ul. Leszczynowa 58|Gdansk|13-406|city|518655412|ckozka@example.com
+97393490676|s49524|Kajetan|Reimann|2011-01-20|Lubon|male|ul. Maja 75|Gdansk|01-266|city|081035440|mariusz08@example.com
+06932868235|s33477|Emil|Borzych|2011-04-11|Srem|male|pl. Kalinowa 406|Gdynia|53-905|city|735830867|alan06@example.net
+34168689534|s00967|Konrad|Hennig|2011-01-20|Reda|male|pl. Norwida 86/29|Borkowo|42-095|countryside|396590029|qduc@example.com
+42289313740|s82222|Sonia|Szelest|2011-03-04|Tarnowskie Gory|female|ulica Wczasowa 50|Gdynia|55-069|city|463997899|robertperlik@example.net
+36611729655|s65837|Wojciech|Szyca|2011-03-28|Zabrze|male|pl. Slonecznikowa 011|Wejherowo|33-349|city|344050611|blankacierpisz@example.com
+58738870085|s83217|Gabriel|Pleban|2010-11-17|Kluczbork|male|al. Kochanowskiego 007|Gdansk|38-220|city|819972801|upawlos@example.org
+85047082729|s55193|Ada|Bartocha|2010-05-10|Mlawa|female|ul. Kasztanowa 10/02|Gdansk|30-552|city|953588422|emilignatiuk@example.org
+74610852656|s80582|Adam|Morawiak|2011-04-10|Tarnobrzeg|male|ul. Zeglarska 356|Gdansk|74-347|city|460439692|grzegorzkukuczka@example.net
+88793189670|s73986|Klara|Kossak|2011-02-09|Myszkow|female|plac Lipowa 516|Straszyn|75-935|countryside|234452722|ggrys@example.org
+18462652151|s36163|Szymon|Bogumil|2010-11-24|Koscierzyna|male|plac Mazowiecka 514|Gdynia|26-467|city|061254835|ignacylepianka@example.org
+45387706082|s37686|Rozalia|Makiela|2010-09-05|Lublin|female|pl. Polna 200|Gdansk|30-191|city|971765471|fitanatan@example.org
+90584193904|s33876|Alan|Biegala|2011-04-01|Kwidzyn|male|aleja Kolorowa 21|Bogatka|86-756|countryside|751274513|urszulawawrzyn@example.net
+14521783592|s75913|Mikolaj|Palen|2010-10-13|Skarzysko-Kamienna|male|ulica Mala 203|Borkowo|23-432|countryside|259109771|pulanowicz@example.org
+37671485898|s60724|Monika|Goliszek|2011-04-01|Jaslo|female|al. Bursztynowa 65/29|Sopot|78-438|city|148687054|eliza97@example.com
+20824930635|s74683|Stanislaw|Robaszkiewicz|2011-03-21|Krasnik|male|plac Zwirki i Wigury 33/02|Bogatka|20-689|countryside|740827945|nikodemsadlocha@example.com
+10842205996|s82970|Marika|Olas|2010-12-08|Lebork|female|al. Willowa 376|Gdansk|77-662|city|094789488|miklaszewiczstanislaw@example.net
+74591524276|s48875|Nataniel|Klosek|2010-10-23|Rybnik|male|al. Jesionowa 28/64|Gdansk|34-942|city|838892030|urynowiczelzbieta@example.net
+92421405293|s57245|Filip|Luczka|2011-03-20|Lubin|male|plac Leszczynowa 46|Wejherowo|43-064|city|345834501|kacper50@example.com
+82865908459|s13491|Borys|Owsiak|2011-02-12|Walcz|male|plac Liliowa 091|Gdynia|71-536|city|747774445|ewa98@example.com
+53034302475|s13512|Julian|Taciak|2010-11-03|Zagan|male|plac Rumiankowa 52/00|Gdynia|61-648|city|909088477|ewawota@example.net
+83633749560|s96602|Igor|Wyrostek|2011-02-19|Starachowice|male|pl. Porzeczkowa 017|Gdansk|41-621|city|295348935|kazimierz02@example.net
+38292913715|s96478|Mateusz|Kupaj|2011-01-27|Sanok|male|ulica Cisowa 00/84|Wejherowo|28-257|city|003507998|mydlarzsebastian@example.net
+25752279288|s63823|Patryk|Sosniak|2011-01-10|Tomaszow Mazowiecki|male|ul. Poludniowa 87/17|Bogatka|54-071|countryside|023978984|dziudarobert@example.net
+57529039143|s41307|Tola|Han|2010-09-28|Stargard Szczecinski|female|plac Podlesna 65|Bogatka|15-071|countryside|880836017|justyna11@example.org
+29676978619|s12858|Jacek|Sojda|2011-01-14|Swietochlowice|male|plac Kaszubska 27|Gdansk|17-262|city|415184700|lepkalidia@example.com
+20782915718|s55815|Juliusz|Krzysiek|2010-09-30|Bialystok|male|al. Targowa 66|Gdynia|54-064|city|598123714|konstantypernak@example.net
+53621248407|s83314|Mateusz|Goliasz|2010-09-09|Inowroclaw|male|plac Mila 891|Straszyn|79-346|countryside|788579357|adam31@example.net
+62093449278|s32084|Jacek|Citko|2011-01-07|Ilawa|male|plac Krzywa 954|Gdynia|59-487|city|154092203|snamyslo@example.net
+00683790654|s07667|Roza|Gras|2011-01-12|Zywiec|female|al. Partyzantow 35/83|Wejherowo|55-145|city|784686947|albert22@example.com
+72575447369|s06810|Tola|Gasz|2010-12-12|Pruszkow|female|ul. Sikorskiego 35/32|Sopot|67-708|city|859325150|oliwierbaranowicz@example.net
+47147519887|s10262|Krzysztof|Ratka|2011-03-15|Kolobrzeg|male|al. Partyzantow 208|Bogatka|11-854|countryside|637554261|oroszko@example.net
+77777739854|s79845|Karina|Orzeszek|2011-04-15|Zamosc|female|al. Cyprysowa 024|Bogatka|58-780|countryside|915393729|mbak@example.org
+78412676382|s75456|Dagmara|Juskiewicz|2011-01-09|Suwalki|female|al. Wyszynskiego 90|Straszyn|61-657|countryside|727971209|szklarekkornel@example.com
+40188249617|s51122|Kaja|Lyjak|2010-07-23|Wejherowo|female|pl. Kruczkowskiego 73/98|Gdansk|24-179|city|841557517|rbuchalik@example.org
+27419853097|s65722|Kamil|Jedryczka|2010-10-04|Walbrzych|male|ul. Pilsudskiego 173|Gdansk|27-413|city|155716594|dorynekignacy@example.net
+04260162983|s96246|Elzbieta|Zemanek|2011-04-17|Krasnik|female|plac Borowa 73/98|Gdansk|35-093|city|340006908|tymoteusz34@example.net
+39261826187|s08265|Kornel|Glowienka|2010-05-21|Stargard Szczecinski|male|plac Jadwigi 343|Wejherowo|58-321|city|554700858|uposmyk@example.net
+50023313249|s86930|Eryk|Niewiara|2011-01-26|Zakopane|male|pl. Warszawska 14/57|Gdynia|43-982|city|021448362|grzegorzklin@example.com
+53468983630|s56723|Julianna|Suchora|2010-08-10|Zdunska Wola|female|ulica Lelewela 76|Wejherowo|92-839|city|590839542|tymonjonak@example.org
+67665472732|s53316|Dorota|Bareja|2009-08-04|Poznan|female|ul. Kasprowicza 56|Wejherowo|38-914|city|188698706|szklarekleonard@example.com
+73364808080|s09810|Ida|Zoladkiewicz|2009-08-05|Jastrzebie-Zdroj|female|pl. Bema 723|Borkowo|80-759|countryside|776160457|czulaknela@example.net
+09361721291|s83615|Marek|Siarkiewicz|2009-06-21|Swidnik|male|ulica Sosnowa 290|Borkowo|25-671|countryside|478757345|owyrobek@example.com
+25047166645|s40297|Ksawery|Nocek|2009-09-06|Wyszkow|male|ulica Jabloniowa 998|Wejherowo|12-263|city|467936147|npolom@example.com
+96870990276|s09978|Apolonia|Kosznik|2009-08-23|Starachowice|female|aleja Irysowa 91|Wejherowo|43-949|city|595815113|qzubowicz@example.com
+94748424721|s61265|Jozef|Sito|2010-05-02|Czerwionka-Leszczyny|male|plac Andersa 498|Straszyn|23-583|countryside|032005283|inga99@example.net
+18612501094|s19014|Urszula|Herba|2009-05-11|Starachowice|female|plac Rataja 13/56|Gdynia|13-027|city|795724751|bulfik@example.com
+09232467256|s65660|Malwina|Dziurla|2009-12-11|Szczecin|female|aleja Piekarska 81|Wejherowo|30-300|city|561501951|anitaheczko@example.org
+79650953164|s23071|Maks|Szwaj|2009-07-11|Swiecie|male|pl. Kaliska 512|Sopot|11-139|city|725625531|albertmich@example.net
+61687622650|s51878|Borys|Korgul|2009-06-12|Starachowice|male|ul. Sarnia 89/98|Bogatka|29-968|countryside|502227869|marekliedtke@example.net
+00795364028|s62559|Fryderyk|Imiela|2009-07-01|Sandomierz|male|aleja Wyzwolenia 297|Gdynia|34-304|city|183132763|zkosiak@example.org
+03855745168|s26742|Adam|Bylina|2009-07-05|Swiebodzice|male|ul. Asnyka 453|Gdynia|04-268|city|332662560|cezary59@example.org
+64561888991|s50163|Bartek|Hewelt|2009-05-20|Ciechanow|male|ul. Glowackiego 354|Straszyn|13-524|countryside|942762625|ingamatyjaszek@example.com
+82487096408|s82553|Kajetan|Kala|2010-02-27|Legnica|male|al. Ptasia 49|Gdansk|66-495|city|778719063|anitaandrzejuk@example.net
+33562258668|s91925|Antoni|Czerkies|2009-09-22|Swiecie|male|aleja Borowkowa 063|Straszyn|96-029|countryside|106100394|maurycyklepka@example.com
+80717550552|s91801|Mieszko|Piksa|2010-02-27|Bielawa|male|ulica Hallera 66|Straszyn|53-747|countryside|696897473|swiatkiewicztobiasz@example.org
+52491521338|s44429|Patryk|Jurczuk|2009-12-07|Ilawa|male|ulica Zurawia 49/61|Straszyn|86-084|countryside|550440102|osypula@example.com
+49331246534|s47460|Oliwier|Miekina|2009-10-17|Jawor|male|aleja Radosna 23/47|Bogatka|93-510|countryside|020774013|dnesterowicz@example.net
+84652244833|s70917|Jakub|Kobel|2009-08-21|Wielun|male|pl. Radosna 96/09|Sopot|81-393|city|342724360|zpezda@example.net
+95611193170|s07829|Kamil|Budniak|2009-10-30|Wrzesnia|male|plac Debowa 17/33|Bogatka|02-423|countryside|029955848|fabiancichos@example.net
+19852673048|s40006|Maksymilian|Luks|2009-05-24|Zawiercie|male|plac Skosna 591|Sopot|43-909|city|553936553|ryszardlabaj@example.org
+93512177013|s44887|Igor|Laciak|2009-09-07|Pulawy|male|ul. Kreta 300|Borkowo|14-884|countryside|881672133|fryderykwnuczek@example.com
+81002623949|s72456|Gabriel|Piegza|2010-03-12|Turek|male|pl. Daszynskiego 52/63|Sopot|15-197|city|606989168|kononowiczanna-maria@example.net
+23551572327|s48463|Aleks|Gregorowicz|2009-11-18|Tarnowskie Gory|male|plac Sowia 95/10|Wejherowo|52-433|city|081278545|jacek48@example.org
+32913230908|s82595|Jozef|Wiech|2009-12-01|Dzierzoniow|male|ul. Akacjowa 86|Sopot|26-139|city|732215485|slaboszrafal@example.net
+15619507969|s96304|Cezary|Gabryelczyk|2009-09-04|Ostrow Mazowiecka|male|aleja Krancowa 49|Bogatka|89-143|countryside|466496384|leonard09@example.org
+88717659930|s01267|Ada|Cebulak|2009-12-25|Minsk Mazowiecki|female|ulica Gorna 54/37|Gdansk|26-942|city|521000647|morawiakjozef@example.com
+23463230919|s06177|Tobiasz|Styrna|2009-10-17|Wroclaw|male|plac Wiklinowa 320|Wejherowo|93-734|city|051725524|andrzejwysota@example.net
+30838328277|s96205|Gaja|Labocha|2010-02-04|Leszno|female|ul. Cegielniana 19/25|Wejherowo|31-160|city|473080409|polakiewicznatan@example.com
+09913126750|s07634|Natasza|Powala|2010-02-26|Wodzislaw Slaski|female|plac Boleslawa Krzywoustego 37|Gdynia|66-338|city|250529094|krystyna49@example.com
+76955481952|s41027|Dawid|Fiutak|2009-11-11|Swiebodzice|male|aleja Diamentowa 42/52|Bogatka|39-420|countryside|463735204|justynamacek@example.com
+03481106236|s97184|Gaja|Kozien|2010-04-18|Bilgoraj|female|pl. Tartaczna 38/49|Gdynia|12-477|city|703664622|karinaszkatula@example.org
+19250330430|s81328|Adrian|Przewoznik|2010-05-04|Mlawa|male|plac Reja 68|Gdynia|57-319|city|676331666|przemyslaw88@example.net
+37980439090|s87176|Mateusz|Kurcz|2009-08-05|Tarnow|male|ulica Brzoskwiniowa 583|Borkowo|75-525|countryside|580453507|janparzonka@example.org
+08317882749|s57124|Melania|Mozdzierz|2009-07-17|Skawina|female|al. Traugutta 47|Bogatka|09-545|countryside|048121788|gajaburczak@example.org
+93928476861|s85613|Krzysztof|Jas|2009-11-01|Jaslo|male|plac Mysliwska 258|Borkowo|71-435|countryside|931031845|karina60@example.net
+73492570881|s39820|Ksawery|Delikat|2009-12-19|Stargard Szczecinski|male|ulica Chopina 873|Wejherowo|30-831|city|710912506|sylwiaplizga@example.net
+14263222856|s48520|Milosz|Gendera|2010-04-11|Laziska Gorne|male|aleja Brzozowa 30/44|Wejherowo|75-679|city|002965261|heweltcezary@example.org
+29925873103|s35378|Stanislaw|Kilar|2009-06-24|Piastow|male|al. Morcinka 48/51|Borkowo|67-726|countryside|623603435|fkrefta@example.com
+12245542511|s22822|Jakub|Drazyk|2010-04-25|Cieszyn|male|ulica Cegielniana 467|Straszyn|70-800|countryside|533756820|fabian91@example.net
+92988755151|s91591|Damian|Krus|2010-01-24|Boleslawiec|male|ul. Ceglana 353|Borkowo|28-715|countryside|616090493|mieszkoskup@example.com
+06978779820|s05588|Dagmara|Jagielo|2009-06-05|Torun|female|ul. Krakowska 97/03|Gdynia|85-112|city|109996639|knieborak@example.net
+33259269598|s87080|Ernest|Klorek|2010-03-23|Kwidzyn|male|ulica Niepodleglosci 47/84|Gdynia|32-667|city|287991328|lidia84@example.net
+53240746065|s42044|Sylwia|Ludwisiak|2010-01-21|Swarzedz|female|aleja Broniewskiego 55/70|Gdynia|50-215|city|414311982|wasilpawel@example.net
+71089571287|s02627|Patryk|Chlad|2009-08-09|Zabki|male|ul. Graniczna 65|Wejherowo|50-281|city|274653730|asroga@example.net
+32499560075|s84962|Malwina|Smalec|2010-01-02|Pila|female|plac Orla 23|Sopot|72-758|city|638064882|igorlodyga@example.com
+82984373122|s27522|Jerzy|Bugno|2009-11-30|Laziska Gorne|male|plac Narutowicza 84|Borkowo|46-152|countryside|730304108|albertgiedrojc@example.net
+54577076436|s84201|Konrad|Tluczek|2010-04-02|Swiecie|male|aleja Cicha 673|Straszyn|34-957|countryside|716375934|bialachmaciej@example.net
+41736079047|s80259|Bartek|Ciastek|2010-02-17|Legnica|male|plac Irysowa 08|Bogatka|05-470|countryside|836723615|kamil91@example.com
+17089110845|s74741|Blanka|Kunka|2009-10-29|Belchatow|female|ulica Nadbrzezna 80/33|Gdansk|57-376|city|454316645|arkadiusz68@example.org
+69247214785|s84423|Jacek|Pysz|2009-08-18|Pulawy|male|ulica Dluga 78/73|Gdansk|42-249|city|725672338|lidiaklekot@example.net
+94759252875|s84302|Janina|Lasica|2010-03-23|Gizycko|female|pl. Jastrzebia 45|Straszyn|88-335|countryside|987811830|wieclawekdorota@example.com
+92884567790|s11119|Marianna|Ciuk|2010-02-27|Chojnice|female|plac Rynek 787|Sopot|92-159|city|695893060|piotrcebo@example.net
+62612340327|s13107|Oliwier|Borysewicz|2010-03-02|Chorzow|male|ul. Kasztanowa 525|Straszyn|13-961|countryside|273939113|jerzy78@example.com
+34485147905|s70126|Stefan|Zysk|2009-05-23|Wolomin|male|ul. Bankowa 49|Straszyn|10-805|countryside|601714227|qkamyk@example.net
+27764563144|s48814|Jeremi|Moniuszko|2010-02-19|Zamosc|male|ulica Polna 06|Gdynia|73-319|city|481239798|wojtonleonard@example.com
+14194548584|s80678|Maks|Rzezniczak|2009-05-15|Zielona Gora|male|ulica Zacisze 115|Wejherowo|94-411|city|579319337|arkadiuszstachelek@example.org
+12505860755|s36221|Marcel|Majtczak|2009-11-15|Wyszkow|male|al. Galczynskiego 292|Gdansk|54-039|city|861568042|wajdzikolgierd@example.com
+74573161601|s86532|Piotr|Wasala|2010-03-22|Lukow|male|ulica Zwyciestwa 486|Bogatka|56-204|countryside|842330788|jjereczek@example.com
+29763773150|s19409|Jerzy|Plizga|2009-09-10|Zory|male|plac Wrzosowa 07|Gdansk|13-552|city|372888724|zburzec@example.net
+66992344693|s76973|Mikolaj|Grabias|2009-07-11|Kolobrzeg|male|al. Jastrzebia 11/67|Borkowo|99-337|countryside|663468481|dariuszchlebek@example.net
+71728485814|s44825|Kamil|Hutyra|2009-10-19|Malbork|male|al. Kowalska 25/29|Borkowo|30-361|countryside|602732085|vkusyk@example.net
+47320511789|s38015|Malwina|Fitrzyk|2009-07-19|Wodzislaw Slaski|female|ul. Osiedlowa 93|Wejherowo|70-498|city|037357939|arkadiusz86@example.com
+07843121207|s27266|Aleks|Solis|2009-08-01|Przemysl|male|plac Wilcza 68/08|Gdynia|80-361|city|732851472|krystianszpala@example.com
+45000012445|s18612|Patryk|Czerepak|2009-10-27|Czerwionka-Leszczyny|male|plac Galczynskiego 97|Sopot|68-085|city|121118969|robertwiszowata@example.org
+01449930430|s77825|Marianna|Janoszek|2009-06-08|Boleslawiec|female|pl. Nowa 183|Wejherowo|98-758|city|090869684|oprystupa@example.com
+39409824629|s68878|Mateusz|Majorczyk|2010-04-10|Lukow|male|ul. Boczna 10|Sopot|92-752|city|211303469|wlokietek@example.org
+84240391596|s52656|Kalina|Zuziak|2009-10-22|Jaroslaw|female|aleja Norwida 81/33|Gdynia|85-041|city|350210045|tola53@example.com
+07741609174|s23207|Marcel|Kalwak|2010-03-19|Nowa Ruda|male|plac Kaliska 69|Sopot|85-436|city|879656835|ptrepka@example.org
+44766900335|s80635|Aleksander|Knapek|2009-10-08|Wroclaw|male|al. Powstancow Wielkopolskich 06/95|Borkowo|32-347|countryside|439398870|ewa50@example.com
+63526965343|s94418|Tobiasz|Wandzel|2010-03-25|Zamosc|male|plac Sokola 32|Straszyn|17-461|countryside|463673840|jstepak@example.net
+06257541762|s92442|Konrad|Busko|2009-09-04|Stalowa Wola|male|aleja Orzeszkowej 28|Sopot|67-898|city|706101164|karina43@example.net
+65393312103|s34511|Marcelina|Dejneka|2009-03-30|Lomza|female|ulica Dabrowskiej 19|Wejherowo|21-461|city|272129621|uwieladek@example.com
+42540270508|s81701|Roksana|Majdak|2009-04-17|Ostrow Mazowiecka|female|plac Rolna 39|Gdynia|34-231|city|783685836|tomaszzimolag@example.com
+61919035699|s05508|Maurycy|Dziczek|2008-08-20|Kwidzyn|male|aleja Jaworowa 31|Straszyn|42-032|countryside|770875395|blanka34@example.com
+74900498449|s71624|Eliza|Wicha|2008-10-11|Swarzedz|female|plac Slaska 574|Gdansk|37-284|city|586374451|pstebel@example.net
+94925633763|s25642|Kornel|Czulak|2009-01-31|Starogard Gdanski|male|plac Swierczewskiego 25/73|Straszyn|64-412|countryside|009397539|wiktor14@example.com
+12660222499|s23509|Aleksander|Roskosz|2009-03-05|Gniezno|male|plac Grottgera 67/35|Wejherowo|90-992|city|538285076|korneldyczko@example.com
+14288724400|s38649|Ewa|Belz|2008-07-03|Wyszkow|female|plac Jastrzebia 11|Wejherowo|58-238|city|293013564|ksawerywiraszka@example.org
+14317072626|s94718|Mariusz|Zybura|2008-07-14|Kielce|male|aleja Mazowiecka 38/29|Wejherowo|60-291|city|950983477|omioteknatasza@example.net
+00077081994|s99508|Olgierd|Gamrat|2008-08-21|Myszkow|male|al. Zacisze 56|Gdansk|25-942|city|231319434|szymontylus@example.net
+29333099226|s13557|Melania|Giezek|2008-12-12|Walbrzych|female|pl. Poziomkowa 23|Gdynia|92-478|city|202950382|mateusz21@example.net
+53787179823|s45549|Justyna|Wszola|2008-12-01|Gorzow Wielkopolski|female|aleja Brzozowa 11/73|Gdansk|11-268|city|414733673|makskiljan@example.com
+96680749375|s36315|Blazej|Bastek|2008-10-05|Sochaczew|male|pl. Kusocinskiego 54/64|Wejherowo|36-065|city|456256979|aleksander99@example.net
+97385951029|s83634|Melania|Juszczuk|2008-11-08|Brodnica|female|aleja Piekna 09|Borkowo|85-763|countryside|259956557|natasza58@example.com
+42529766802|s77016|Jakub|Miecznik|2008-06-15|Swidnica|male|ul. Tysiaclecia 74|Straszyn|54-132|countryside|501572216|dziducholaf@example.com
+70269518268|s10413|Radoslaw|Kral|2008-07-11|Mikolow|male|ulica Dluga 791|Gdynia|78-783|city|798716695|ngorgol@example.org
+91613370446|s16059|Marianna|Podsiedlik|2009-03-16|Jelenia Gora|female|pl. Radosna 31/44|Sopot|75-617|city|399510105|bartekkustosz@example.com
+44497140849|s76949|Antoni|Halama|2009-01-11|Zielona Gora|male|plac Slowicza 130|Straszyn|33-877|countryside|483229948|milosz57@example.org
+82783425992|s27691|Piotr|Patora|2008-12-01|Kedzierzyn-Kozle|male|ul. Rumiankowa 33/46|Bogatka|84-901|countryside|415546897|ccis@example.com
+68179198754|s94028|Tomasz|Teodorowicz|2009-01-07|Nowy Dwor Mazowiecki|male|ulica Piaskowa 378|Gdynia|13-696|city|584199859|wziatekmikolaj@example.com
+47028875780|s06330|Roza|Wegrzynowicz|2009-04-14|Plock|female|al. Morelowa 85/04|Bogatka|05-832|countryside|780180765|rozamietka@example.net
+41277301480|s89677|Liwia|Omiotek|2008-10-12|Tarnowskie Gory|female|plac Partyzantow 419|Gdynia|75-268|city|774893139|milosz66@example.net
+64424729780|s29739|Hubert|Smagacz|2008-07-28|Wolomin|male|ulica Piekarska 700|Gdansk|77-413|city|717962597|juliannapalica@example.org
+84922565378|s67320|Tymon|Grab|2008-07-06|Sieradz|male|ul. Jagodowa 26/71|Wejherowo|41-819|city|886692732|njanc@example.com
+84080304110|s59630|Urszula|Gietka|2008-10-26|Kluczbork|female|ul. Strzelecka 457|Borkowo|51-509|countryside|422105137|hubert18@example.com
+53582488854|s16364|Roza|Bobrowicz|2008-08-04|Kedzierzyn-Kozle|female|pl. Kolonia 324|Borkowo|05-824|countryside|761994764|wojciech69@example.net
+72382008777|s24234|Rafal|Bojdo|2008-09-22|Szczecin|male|ul. Powstancow Wielkopolskich 07|Borkowo|63-620|countryside|153613247|justynapiotrowiak@example.net
+48113744297|s30170|Maks|Gryszkiewicz|2008-07-03|Przemysl|male|aleja Wladyslawa Lokietka 61|Borkowo|80-813|countryside|663347246|estrug@example.com
+19826710744|s66177|Lukasz|Liss|2008-10-01|Przemysl|male|aleja Slonecznikowa 482|Gdansk|52-119|city|303950787|ewika@example.com
+35328269942|s07602|Kornel|Wyroslak|2008-05-16|Jastrzebie-Zdroj|male|ulica Turystyczna 014|Gdynia|63-252|city|048683796|cebulakdominik@example.com
+20314072443|s95384|Nela|Paszkowiak|2008-12-06|Rzeszow|female|pl. Krolewska 84|Gdansk|50-432|city|046356947|piotr67@example.com
+25475597311|s19642|Bartek|Drewicz|2009-01-29|Zywiec|male|plac Spokojna 68|Gdansk|42-710|city|202947348|sylwia11@example.net
+89158517952|s14365|Marcelina|Katana|2008-10-17|Grudziadz|female|al. Sportowa 60|Borkowo|26-582|countryside|555573276|lukasz85@example.net
+71249763231|s42349|Marcel|Sadowy|2008-11-30|Sosnowiec|male|aleja Mlynska 52/84|Bogatka|87-335|countryside|697610540|melania91@example.org
+80802829463|s40754|Wojciech|Lenik|2008-10-31|Siemianowice Slaskie|male|plac Dobra 17/42|Gdansk|16-408|city|205944069|wochnamaurycy@example.net
+04526851809|s50811|Angelika|Gierat|2009-01-20|Starachowice|female|aleja Dobra 12|Gdynia|88-810|city|628393974|morekalan@example.org
+27093293828|s52229|Ewa|Gronostaj|2008-11-08|Bytom|female|ulica Poludniowa 625|Gdansk|17-683|city|662002020|iskierkagabriel@example.com
+87436147028|s20162|Emil|Bicz|2008-10-10|Radom|male|al. Pocztowa 89/66|Sopot|09-505|city|888150020|maksymilianwziatek@example.com
+48642660390|s20194|Ada|Blazejak|2008-07-07|Ostrow Wielkopolski|female|ulica Rolna 348|Straszyn|49-530|countryside|303378073|anitajarczak@example.net
+56271254974|s40730|Elzbieta|Rogal|2009-01-20|Bielsk Podlaski|female|al. Mostowa 27|Borkowo|30-360|countryside|627352720|kazimierz20@example.org
+90221412472|s77302|Tobiasz|Klebba|2008-05-17|Belchatow|male|ul. Podmiejska 20|Sopot|34-500|city|174462061|ckoniec@example.com
+25380284836|s14941|Aleks|Czupryn|2008-06-04|Bedzin|male|al. Paderewskiego 91|Bogatka|39-158|countryside|447481433|kalaolaf@example.com
+79359473128|s94066|Arkadiusz|Krajniak|2008-08-07|Zakopane|male|pl. Lipowa 769|Gdynia|61-224|city|938955139|kornelmanista@example.com
+09136345302|s81574|Kornel|Maksimowicz|2008-12-30|Katowice|male|aleja Wybickiego 92|Straszyn|64-270|countryside|157164207|kamil85@example.com
+29509578784|s87221|Antoni|Golonko|2008-10-31|Knurow|male|plac Kolorowa 04/86|Wejherowo|77-349|city|305974748|jkordus@example.net
+46440178154|s12511|Gustaw|Konsek|2008-06-12|Sopot|male|al. Diamentowa 86|Gdynia|58-512|city|603998953|iwlazlak@example.org
+84909795742|s32056|Kajetan|Kafel|2008-08-09|Reda|male|plac Zielona 435|Sopot|23-716|city|300424880|artur63@example.net
+91776119053|s80465|Szymon|Stapor|2009-01-30|Belchatow|male|ul. Letnia 46/98|Gdansk|55-699|city|243805992|erykkociemba@example.net
+61891689333|s15209|Rafal|Piszcz|2008-12-26|Zagan|male|pl. Kielecka 969|Borkowo|76-196|countryside|716905754|hbystrek@example.com
+66359123777|s24290|Marcel|Woda|2008-12-12|Ostrow Wielkopolski|male|ul. Dzialkowa 93|Borkowo|81-469|countryside|147498146|kjasina@example.org
+47318314108|s07688|Natan|Topa|2008-09-04|Pruszkow|male|pl. Stroma 70/03|Bogatka|76-857|countryside|950204152|patryk15@example.org
+20250762672|s13130|Justyna|Zawiasa|2008-05-31|Sanok|female|ul. Porzeczkowa 15|Gdansk|68-644|city|052073091|ifolta@example.com
+11206887435|s18126|Justyna|Rusnak|2009-01-30|Skarzysko-Kamienna|female|ul. Rynek 26|Bogatka|12-951|countryside|681025383|lbitner@example.com
+49290703070|s96856|Wiktor|Szybiak|2008-07-12|Poznan|male|aleja Morcinka 08|Gdynia|81-707|city|362814836|jedrzej24@example.org
+89631484760|s30321|Radoslaw|Rysz|2008-12-18|Koscian|male|pl. Piekarska 78/40|Gdynia|74-227|city|080887119|juliannakuran@example.org
+20514434710|s78596|Eryk|Sladek|2009-03-25|Gdansk|male|ulica Ksiezycowa 62|Wejherowo|47-013|city|157457421|xstarek@example.net
+88949530893|s07178|Malwina|Filak|2008-12-28|Wloclawek|female|pl. Andersa 765|Gdynia|11-773|city|565952004|dziduchinga@example.com
+20597397995|s04093|Mikolaj|Maciejuk|2008-11-21|Police|male|pl. Urocza 93/29|Bogatka|93-259|countryside|675972780|dagmara98@example.org
+51002696902|s40141|Jerzy|Nieroda|2009-03-22|Swietochlowice|male|ulica Jarzebinowa 65/23|Sopot|29-187|city|991487908|apoloniakramer@example.net
+95517085510|s77091|Marcin|Klosowicz|2009-03-06|Tychy|male|pl. Drzymaly 056|Wejherowo|40-759|city|593792079|dominik82@example.org
+29650873063|s33366|Alan|Nowotka|2008-09-12|Gorzow Wielkopolski|male|aleja Ksiezycowa 390|Gdynia|83-977|city|963921108|justyna42@example.com
+95737860718|s32223|Anita|Jarczyk|2008-07-13|Poznan|female|pl. Slonecznikowa 13/04|Straszyn|06-268|countryside|251777973|marek31@example.com
+91751904684|s21505|Dominik|Wojtach|2008-06-26|Olkusz|male|plac Boleslawa Krzywoustego 77|Straszyn|23-041|countryside|020371201|dudziecmonika@example.org
+58100282133|s44970|Ada|Tyma|2008-06-04|Katowice|female|pl. Strumykowa 67/08|Straszyn|34-256|countryside|592619843|ybudner@example.org
+51734436676|s34845|Kacper|Latoszek|2009-02-12|Ostrow Wielkopolski|male|al. Jeziorna 826|Gdynia|14-030|city|622318715|folgaaniela@example.com
+45177896831|s11648|Alex|Dykas|2008-11-01|Ostroleka|male|ulica Spoldzielcza 124|Sopot|95-565|city|267863383|parafiniukolgierd@example.com
+49617569205|s23116|Leon|Olesiejuk|2009-02-26|Szczytno|male|ulica Wojska Polskiego 52|Bogatka|09-898|countryside|592530936|adriannalukowicz@example.org
+14106454411|s70058|Filip|Drej|2009-02-19|Pulawy|male|plac Hallera 51/88|Straszyn|72-204|countryside|101901517|mariusz71@example.org
+23005054520|s12298|Gustaw|Dreszer|2009-01-27|Tarnobrzeg|male|al. Zeromskiego 24|Sopot|90-738|city|079192834|korneliadyjas@example.com
+28692781920|s34048|Iwo|Pietrak|2009-01-17|Rybnik|male|plac Konstytucji 3 Maja 04|Bogatka|91-857|countryside|065825409|roksanasnieg@example.com
+55927676381|s28231|Gustaw|Majdan|2008-06-22|Nowa Ruda|male|plac Jasminowa 88|Borkowo|25-099|countryside|136021724|nfilusz@example.org
+77100075431|s71367|Sonia|Klups|2008-06-16|Stargard Szczecinski|female|ul. Widokowa 14/61|Wejherowo|20-648|city|696282110|cyprian90@example.com
+88373864046|s65487|Dagmara|Polasik|2008-08-19|Ostroleka|female|ulica Akacjowa 34|Bogatka|51-336|countryside|870943282|dawid86@example.com
+34755020085|s60592|Janina|Kielich|2007-11-05|Zabrze|female|aleja Sawickiej 20|Wejherowo|74-461|city|122046496|xmajewicz@example.org
+30458615281|s71597|Fabian|Zagrajek|2007-07-02|Wielun|male|pl. Powstancow Slaskich 660|Bogatka|26-575|countryside|032529127|jbaldys@example.org
+45502200023|s65785|Witold|Tylka|2007-08-02|Grudziadz|male|al. Mostowa 127|Borkowo|12-283|countryside|690666703|jedrzej89@example.com
+42777165411|s69844|Kajetan|Stapor|2007-11-01|Nowa Sol|male|aleja Wilcza 434|Borkowo|70-028|countryside|714403190|sykalaarkadiusz@example.net
+99968814239|s28855|Maciej|Waloszczyk|2008-04-02|Ketrzyn|male|ulica Armii Krajowej 69|Borkowo|92-147|countryside|271432275|nataniel92@example.org
+14926960017|s32674|Jerzy|Hawrylak|2008-02-20|Nowy Sacz|male|ul. Mala 35/60|Sopot|84-477|city|609877982|daniel28@example.com
+15430659863|s64871|Hubert|Jasionek|2007-10-04|Gniezno|male|plac Slowianska 50/92|Gdansk|56-655|city|769090549|bialczykaniela@example.com
+35025055874|s10352|Agnieszka|Chaba|2007-06-05|Ostrow Mazowiecka|female|al. Niepodleglosci 53/85|Gdansk|90-331|city|055653244|ewelinademianczuk@example.com
+66747015055|s20002|Tomasz|Stoltmann|2008-03-22|Lubon|male|ulica Rzeczna 00/52|Gdynia|65-948|city|473230254|maks27@example.org
+00355569977|s40035|Dagmara|Maciocha|2007-11-23|Bialogard|female|plac Srednia 90/96|Wejherowo|01-413|city|066749035|olchawanela@example.com
+80863812515|s65525|Tadeusz|Drobisz|2007-08-18|Szczecin|male|al. Zwirowa 144|Borkowo|52-712|countryside|656870700|opolchlopek@example.net
+15805347578|s96880|Marek|Chyb|2008-02-26|Tarnow|male|plac Fiolkowa 014|Gdynia|74-553|city|931954741|padloleonard@example.com
+57902263224|s29172|Mikolaj|Pawelko|2008-01-26|Bydgoszcz|male|ulica Krokusowa 30/12|Bogatka|24-664|countryside|896913043|bmiskowiec@example.net
+03583516450|s63211|Olga|Gumieniak|2008-04-29|Wagrowiec|female|plac Dojazdowa 257|Straszyn|59-149|countryside|780284754|yjarema@example.net
+12959485484|s29976|Janina|Pociask|2007-05-21|Legionowo|female|ulica Morelowa 65/21|Bogatka|13-038|countryside|307980410|marekslon@example.com
+73033762857|s19457|Ignacy|Kiepas|2007-12-17|Wyszkow|male|pl. Slowianska 88|Gdynia|70-656|city|856781813|ywawrzyczek@example.org
+98831329417|s64501|Malwina|Kiljan|2007-05-30|Tarnobrzeg|female|al. Bukowa 33/35|Gdynia|64-359|city|578711493|urszulamosur@example.com
+51813716086|s99106|Roksana|Zagrodnik|2007-09-19|Zdunska Wola|female|plac Rolnicza 040|Sopot|49-173|city|616377882|franciszek20@example.net
+87717535904|s60176|Pawel|Uliasz|2007-11-12|Ilawa|male|plac Krokusowa 84/29|Sopot|28-253|city|322824063|jan76@example.net
+79603667670|s29975|Dominik|Karkocha|2008-04-19|Lubartow|male|ulica Wyspianskiego 79/15|Straszyn|16-922|countryside|163158824|wsmolorz@example.com
+78450141844|s31807|Liwia|Dybiec|2007-08-03|Opole|female|plac Ksiezycowa 99|Bogatka|81-913|countryside|336755854|julian96@example.org
+52191087711|s04840|Kamil|Ligenza|2007-06-04|Gizycko|male|aleja Krasinskiego 88/28|Wejherowo|87-482|city|980376443|wambrozik@example.net
+38565776617|s83105|Maks|Budzen|2008-03-17|Wielun|male|al. Kosciuszki 02|Gdansk|91-334|city|682272003|maliglowkamarek@example.net
+92442457305|s98587|Kajetan|Deneka|2008-05-07|Myszkow|male|ul. Maczka 82|Straszyn|37-582|countryside|883917423|jurczuksandra@example.net
+86415626819|s55448|Sebastian|Muzyk|2007-10-03|Stalowa Wola|male|plac Jarzebinowa 09|Bogatka|68-592|countryside|080539886|witajacek@example.net
+90661034575|s92049|Jacek|Prokopczuk|2007-12-01|Minsk Mazowiecki|male|aleja Prosta 69|Straszyn|78-745|countryside|476635223|emiszkiewicz@example.com
+27558456916|s81779|Arkadiusz|Kuban|2007-10-27|Sochaczew|male|ulica Szpitalna 456|Borkowo|39-841|countryside|899655379|jacek00@example.org
+71408709651|s50957|Karol|Tomys|2007-06-15|Otwock|male|ulica Srodkowa 20|Straszyn|33-019|countryside|083365491|sylwiazygmuntowicz@example.net
+56544169172|s08573|Kornel|Simon|2007-10-28|Chrzanow|male|ulica Jarzebinowa 268|Gdansk|92-464|city|099468723|flitwa@example.net
+26428028504|s01265|Aniela|Wolczyk|2007-11-25|Torun|female|ul. Plazowa 64|Straszyn|26-609|countryside|067078164|nataniel28@example.org
+49502049326|s86695|Maurycy|Tadeusiak|2007-11-16|Minsk Mazowiecki|male|pl. Lipca 588|Gdansk|84-536|city|998955670|jszambelan@example.net
+26278142423|s56037|Oliwier|Zabka|2007-05-21|Siemianowice Slaskie|male|ulica Jezynowa 41|Borkowo|35-593|countryside|821528107|szymulakajetan@example.net
+95426619930|s12004|Mariusz|Bazyluk|2007-08-16|Krosno|male|plac Storczykowa 89|Borkowo|21-243|countryside|842573141|emetel@example.net
+23135882306|s36006|Kacper|Bela|2007-05-10|Skarzysko-Kamienna|male|plac Slonecznikowa 541|Gdynia|62-142|city|620646381|rozalia31@example.net
+29238434358|s95144|Krzysztof|Ziajka|2007-12-21|Pila|male|plac Krasickiego 18|Gdansk|46-751|city|224299308|maslachwojciech@example.org
+77568290485|s16175|Patryk|Bros|2008-04-09|Walbrzych|male|ul. Piekarska 24/00|Straszyn|68-443|countryside|633255462|janina74@example.com
+17966189386|s16297|Karina|Kocaj|2008-04-30|Zywiec|female|ulica Wiklinowa 65/41|Bogatka|05-019|countryside|034963310|juliuszpik@example.net
+29379612078|s79516|Cezary|Dabkiewicz|2007-10-05|Bialystok|male|ul. Zacisze 15/79|Wejherowo|31-666|city|323825773|konstantypyszka@example.com
+47320809530|s89409|Alan|Niescioruk|2008-02-03|Sopot|male|pl. Ceglana 78|Gdansk|11-764|city|405839135|prasekdominik@example.com
+53923339224|s65780|Tadeusz|Gorzelanczyk|2007-08-23|Pszczyna|male|ul. Wroclawska 81/64|Gdynia|76-698|city|194749560|konstantyswierszcz@example.net
+64648896445|s52036|Oskar|Panasewicz|2007-09-27|Rzeszow|male|pl. Rolna 773|Bogatka|49-475|countryside|601302059|czesciklukasz@example.com
+49814025861|s94180|Angelika|Smela|2007-11-09|Boleslawiec|female|plac Broniewskiego 40|Straszyn|76-340|countryside|947416173|mateuszbubel@example.net
+03328156684|s91344|Cyprian|Myga|2007-06-30|Pila|male|plac Jabloniowa 42|Sopot|74-520|city|546333535|cmalesza@example.net
+93242417777|s66012|Aleks|Sztaba|2008-01-23|Nowa Ruda|male|pl. Niepodleglosci 311|Bogatka|24-590|countryside|321991406|hcecot@example.org
+10959282701|s91389|Gustaw|Pesta|2007-11-03|Katowice|male|al. Chelmonskiego 61|Borkowo|73-341|countryside|961102915|wiktorsaczuk@example.com
+64746192762|s11881|Stanislaw|Miszkiel|2008-01-12|Ostroda|male|ulica Wolnosci 469|Bogatka|88-008|countryside|424719196|xtywoniuk@example.org
+48798239955|s62344|Robert|Pikor|2007-09-08|Cieszyn|male|pl. Jana III Sobieskiego 83/24|Borkowo|47-821|countryside|731033404|kusioeryk@example.net
+02805216369|s76083|Krystian|Nazarko|2008-03-02|Sosnowiec|male|plac Slonecznikowa 56|Gdansk|44-574|city|572620997|mieszkostoj@example.org
+92785589311|s02470|Sara|Pasztaleniec|2008-02-22|Lowicz|female|al. Jagodowa 701|Gdynia|34-088|city|768019204|wmlynarz@example.org
+95755421014|s26002|Krzysztof|Bystrek|2008-03-09|Jaslo|male|aleja Kazimierza Wielkiego 28/31|Sopot|68-928|city|738148841|zsapala@example.org
+35460635663|s04767|Blanka|Zelazek|2007-10-23|Olesnica|female|ulica Reymonta 52/97|Wejherowo|16-309|city|604883606|ewa58@example.net
+64236456591|s87424|Milosz|Durlak|2008-03-15|Koscian|male|al. Krotka 09/80|Straszyn|26-854|countryside|454321674|xmirgos@example.org
+01994853913|s83313|Janina|Szumna|2008-02-06|Plonsk|female|plac Powstancow 19|Gdynia|32-171|city|205861823|penkalakamila@example.net
+22215686066|s99782|Mikolaj|Olszowa|2008-01-07|Sandomierz|male|pl. Kolorowa 30|Straszyn|98-254|countryside|591425448|lukaszkorta@example.com
+24668934814|s23565|Emil|Zuberek|2008-01-15|Chorzow|male|aleja Rolnicza 42|Gdynia|35-236|city|234332097|puckarina@example.org
+82473489784|s88489|Klara|Szarpak|2007-07-23|Zabki|female|ulica Wisniowa 857|Borkowo|37-272|countryside|100615048|julita16@example.org
+88627534266|s25778|Tobiasz|Bobko|2007-10-07|Gdynia|male|ulica Wladyslawa Jagielly 462|Sopot|30-225|city|447338985|kurpmichal@example.org
+96788754828|s63150|Maks|Bondaruk|2008-03-21|Mielec|male|plac Dluga 52|Borkowo|95-689|countryside|151068543|misztelaangelika@example.net
+09904660721|s42317|Lukasz|Sasiadek|2007-09-28|Kwidzyn|male|al. Czeresniowa 31/17|Borkowo|35-060|countryside|139493550|jargilodaniel@example.net
+71060668609|s77099|Tomasz|Osial|2008-04-19|Swidnik|male|al. Tuwima 81|Sopot|18-905|city|553025877|damian92@example.net
+75343878024|s60590|Hubert|Walusiak|2007-08-19|Oswiecim|male|pl. Wspolna 15|Sopot|41-220|city|872040044|szymon26@example.org
+78392599106|s89063|Patryk|Fron|2007-07-23|Walbrzych|male|ulica Szymanowskiego 64/03|Gdansk|19-746|city|479927744|kazimierzbazydlo@example.org
+32331641890|s98331|Roksana|Mejer|2007-11-29|Pila|female|pl. Wyszynskiego 073|Straszyn|98-112|countryside|510953536|ymalyszka@example.com
+23276996025|s84691|Radoslaw|Ciepla|2008-04-18|Cieszyn|male|aleja Lipowa 74/09|Wejherowo|55-001|city|894540579|franasszymon@example.net
+79465756411|s33467|Antoni|Szkaradek|2007-10-28|Tychy|male|pl. Jasminowa 406|Wejherowo|02-289|city|786092771|hjantos@example.com
+56979098336|s21434|Jozef|Jasica|2008-03-13|Plock|male|ulica Wojciecha 26/09|Sopot|38-689|city|054264476|tola20@example.org
+32726228253|s81943|Nataniel|Senger|2007-12-10|Katowice|male|ulica Debowa 652|Gdynia|23-036|city|964098387|dzialatadeusz@example.com
+38914551557|s82783|Aurelia|Cogiel|2007-07-10|Kielce|female|pl. Torunska 14|Straszyn|25-031|countryside|617711289|leonard57@example.com
+04850285348|s93718|Artur|Wiaderek|2007-11-15|Tczew|male|al. Wiklinowa 29|Wejherowo|37-531|city|168878151|lgrzeskow@example.com
+40514357537|s50227|Marika|Dzieza|2007-09-20|Cieszyn|female|ulica Bankowa 16|Bogatka|48-309|countryside|343634597|mieszkobaumgart@example.com
+04603929199|s62940|Wojciech|Neugebauer|2007-07-24|Bedzin|male|ul. Wiatraczna 71|Wejherowo|27-920|city|029201372|anna-mariakaraskiewicz@example.org
+07861943244|s64428|Olaf|Kornak|2007-12-15|Skierniewice|male|ulica Szczesliwa 42/21|Borkowo|14-561|countryside|710416028|baczkiewiczmateusz@example.com
+39591258309|s04288|Antoni|Duras|2007-03-03|Brzeg|male|ulica Sokola 116|Wejherowo|74-853|city|201616410|xjanoszka@example.com
+79228009158|s90327|Franciszek|Tylman|2006-08-02|Augustow|male|ul. Rumiankowa 257|Gdansk|44-472|city|103448151|pszumna@example.com
+20757372803|s65512|Andrzej|Achtelik|2007-01-24|Jaworzno|male|ul. Brzoskwiniowa 22/90|Bogatka|37-887|countryside|213695465|marcelinafidler@example.org
+58573181482|s45256|Tomasz|Szymocha|2006-12-20|Cieszyn|male|ulica Sikorskiego 075|Sopot|48-053|city|220311189|jachimczyknataniel@example.org
+81706736873|s16425|Natasza|Maszkiewicz|2006-08-02|Mlawa|female|ulica Owocowa 875|Bogatka|66-708|countryside|286833796|roksana56@example.org
+94463849459|s85038|Juliusz|Matulka|2006-09-02|Sopot|male|plac Rycerska 90|Straszyn|70-877|countryside|723381237|poslusznagabriel@example.net
+49692330982|s81722|Jacek|Ciapa|2007-02-05|Laziska Gorne|male|ul. Promienna 462|Bogatka|94-708|countryside|125391645|fgul@example.com
+14410423463|s45794|Jakub|Mikus|2006-10-04|Koszalin|male|plac Krotka 46|Gdynia|33-130|city|858647723|fabian31@example.net
+52976853701|s96675|Piotr|Cheba|2006-12-11|Wroclaw|male|ulica Mazowiecka 93|Bogatka|97-518|countryside|711205088|mgron@example.org
+02762891859|s23861|Hubert|Bodych|2006-09-03|Kutno|male|al. Sciegiennego 33/21|Bogatka|71-114|countryside|584405079|cindyka@example.com
+53014674608|s57225|Agnieszka|Jedruszczak|2007-03-17|Sochaczew|female|ul. Bursztynowa 06/21|Sopot|45-843|city|913095688|klara55@example.net
+89273874543|s66765|Julita|Owsiany|2006-05-29|Swinoujscie|female|plac Agrestowa 621|Gdansk|30-751|city|723247771|vszkola@example.com
+23371872956|s83828|Krystyna|Kapustka|2006-06-29|Krotoszyn|female|ulica Widok 36/20|Borkowo|38-983|countryside|414178301|haleksiejuk@example.net
+87216512835|s86882|Aniela|Wijata|2007-03-18|Gorlice|female|aleja Podgorna 86|Bogatka|84-078|countryside|647578071|efoit@example.net
+45620684552|s62736|Franciszek|Galach|2006-12-24|Piotrkow Trybunalski|male|ulica Orzeszkowej 97/93|Wejherowo|19-032|city|023366874|arkadiusz41@example.net
+04544596131|s42692|Dorota|Fedorczyk|2006-10-11|Walcz|female|ulica Sklodowskiej-Curie 552|Wejherowo|92-803|city|226082261|tbus@example.net
+72590868932|s20214|Dawid|Bluszcz|2006-07-05|Legionowo|male|pl. Rzemieslnicza 13/42|Wejherowo|33-207|city|941049715|flobacz@example.com
+55968623940|s93345|Kaja|Polewka|2006-12-23|Kluczbork|female|ul. Slaska 23/83|Straszyn|92-117|countryside|151878250|kajetan98@example.net
+13132601642|s55238|Bianka|Jarkiewicz|2007-04-27|Jaworzno|female|ulica Rozana 167|Bogatka|22-538|countryside|168202439|tymon73@example.net
+11094418060|s79889|Jozef|Gadzala|2006-11-23|Bialogard|male|ulica Grzybowa 600|Straszyn|64-751|countryside|138015348|kajetanbrozda@example.org
+56165464981|s00684|Adam|Choina|2006-11-22|Ruda Slaska|male|pl. Wladyslawa Jagielly 94/06|Gdansk|81-160|city|625489352|zgolajacek@example.com
+55830848105|s09283|Robert|Makos|2006-05-10|Koscian|male|aleja Kazimierza Wielkiego 315|Gdynia|93-888|city|704216461|ggrupa@example.com
+70734753503|s40289|Wojciech|Patalas|2007-01-08|Skierniewice|male|pl. Liliowa 28|Sopot|65-935|city|236056630|anastazjakafel@example.com
+42925885693|s45130|Tobiasz|Sporek|2006-10-27|Pila|male|pl. Nadrzeczna 15|Sopot|74-449|city|634437457|zolkiewiczksawery@example.net
+78610241417|s64460|Karol|Dyka|2006-09-26|Radomsko|male|ulica Strumykowa 03/32|Bogatka|67-605|countryside|482109180|ksawery45@example.com
+65436585560|s90873|Marek|Mosur|2006-09-05|Knurow|male|ulica Powstancow 29/31|Borkowo|24-976|countryside|786931981|maksymilianbrojek@example.net
+29833993286|s13475|Olaf|Stanislawek|2007-02-12|Gorlice|male|aleja Wiklinowa 65|Gdansk|39-932|city|892206462|pturczyk@example.org
+99323345435|s59467|Fabian|Bus|2007-01-11|Sosnowiec|male|ulica Mieszka I 57|Borkowo|87-714|countryside|829535644|ikozok@example.net
+29484448318|s93940|Kamil|Klyta|2006-09-30|Piekary Slaskie|male|plac Brzoskwiniowa 64|Wejherowo|73-626|city|154492511|niedospialkarol@example.net
+70756045983|s71545|Elzbieta|Lepek|2006-06-11|Stalowa Wola|female|al. Palacowa 167|Gdynia|02-152|city|573057479|dominikmacha@example.org
+76874758454|s56205|Marcelina|Kutnik|2006-09-29|Sandomierz|female|al. Polnocna 98|Wejherowo|75-724|city|074489256|adriankaszkowiak@example.com
+79840108473|s22313|Krzysztof|Ciecko|2007-04-12|Lowicz|male|aleja Fabryczna 51|Straszyn|41-610|countryside|843617395|pietraszkiewiczmateusz@example.org
+04646976133|s57768|Marcin|Nozka|2007-03-19|Jelenia Gora|male|aleja Kielecka 586|Borkowo|36-499|countryside|101256607|areichel@example.net
+92692072968|s90756|Ida|Smieja|2007-04-28|Kluczbork|female|ul. Konstytucji 3 Maja 99/83|Sopot|55-130|city|537833034|kazimierczukblanka@example.net
+27337327609|s38826|Janina|Samulak|2006-07-06|Czestochowa|female|al. Wypoczynkowa 20|Gdansk|21-840|city|008335517|rciesiolka@example.com
+29226720226|s26848|Fryderyk|Linka|2007-04-09|Pulawy|male|plac Mysliwska 58/00|Borkowo|81-306|countryside|068114437|dplocharczyk@example.org
+24554505102|s87320|Przemyslaw|Franc|2006-11-11|Piaseczno|male|pl. Tuwima 45/95|Borkowo|07-624|countryside|104977164|halamajuliusz@example.org
+46660973917|s33110|Tymon|Bandyk|2006-12-09|Pila|male|al. Radosna 300|Straszyn|44-039|countryside|598201146|pnoras@example.com
+14279426583|s99684|Dagmara|Elwart|2007-01-01|Ostroleka|female|ulica Sawickiej 59/72|Wejherowo|04-421|city|958783189|procstefan@example.net
+60842169216|s11877|Adrian|Mrozek|2007-01-24|Tarnobrzeg|male|pl. Podlesna 67/21|Bogatka|04-093|countryside|716673652|eryk88@example.com
+79584343777|s96148|Alan|Kopyto|2006-09-09|Swinoujscie|male|plac Piaskowa 04/78|Sopot|08-645|city|651096335|gnoras@example.com
+13600443212|s55153|Fryderyk|Holeksa|2006-10-26|Marki|male|pl. Srednia 04|Bogatka|12-233|countryside|936205764|fogielksawery@example.net
+33951029612|s39914|Ewa|Fedak|2007-03-10|Krotoszyn|female|al. Gajowa 56/22|Straszyn|12-680|countryside|552639705|klostola@example.net
+23525869175|s73966|Adrian|Litwa|2007-01-29|Kedzierzyn-Kozle|male|aleja Cmentarna 152|Straszyn|09-897|countryside|829193254|gbugiel@example.net
+74932494952|s50024|Andrzej|Szpyra|2006-10-14|Swiebodzice|male|pl. Kolorowa 031|Borkowo|85-414|countryside|271024589|kielczykdariusz@example.net
+92486685069|s98450|Filip|Zarzeczna|2006-06-28|Ostrow Mazowiecka|male|ulica Maja 38|Bogatka|45-163|countryside|600854429|rozalialitwinowicz@example.net
+74626126598|s45532|Maks|Kudelka|2006-12-17|Ostroleka|male|al. Kaliska 95|Straszyn|14-781|countryside|820913316|ywinnik@example.net
+11561882947|s57079|Liwia|Wereda|2006-08-25|Pruszkow|female|ulica Gorna 76|Sopot|26-109|city|748147345|qtryc@example.net
+31557859781|s50079|Marianna|Basaj|2007-04-13|Marki|female|al. Sowia 13/04|Borkowo|55-474|countryside|094726495|szymonstosik@example.org
+98689120576|s00181|Witold|Cichos|2007-03-22|Gorzow Wielkopolski|male|ulica Kossaka 291|Straszyn|24-404|countryside|823765370|doliwawiktor@example.org
+39248874829|s29284|Damian|Kajdan|2006-07-29|Chrzanow|male|aleja Brzechwy 676|Gdansk|49-376|city|984708538|beredaewelina@example.com
+13350024258|s61572|Tola|Sych|2007-02-10|Bielsko-Biala|female|plac Podlesna 33/51|Straszyn|80-883|countryside|347527680|wiktor24@example.org
+49230955434|s64293|Dorota|Koj|2006-07-04|Gorlice|female|ulica Rumiankowa 526|Borkowo|33-255|countryside|619238248|gajahartman@example.com
+82480299983|s09737|Szymon|Rok|2007-04-10|Suwalki|male|pl. Srednia 08|Wejherowo|32-688|city|609628081|maleszkajerzy@example.org
+82809042366|s68571|Monika|Andryszczyk|2007-03-17|Goleniow|female|al. Klasztorna 95/64|Gdansk|14-909|city|532223283|maksymilian32@example.net
+48956692910|s41353|Marek|Korzeniak|2006-10-21|Siedlce|male|al. Pszenna 42/32|Gdynia|13-695|city|102831662|soniakulus@example.net
+71670862801|s91656|Kaja|Stachewicz|2007-04-13|Oswiecim|female|ul. Wysoka 140|Bogatka|58-159|countryside|460454333|inga65@example.com
+03859682425|s05365|Olga|Habdas|2006-11-17|Grodzisk Mazowiecki|female|ul. Floriana 37/48|Borkowo|95-791|countryside|365267166|szelesttomasz@example.net
+32815301554|s95709|Stanislaw|Sroga|2006-10-04|Sanok|male|al. Pomorska 61|Gdynia|23-111|city|768505061|karolbastek@example.net
+70796125611|s10576|Tymoteusz|Herok|2007-03-23|Zielona Gora|male|al. Dlugosza 87|Gdynia|59-565|city|104347001|krystianduzy@example.com
+48145564183|s28372|Radoslaw|Klekot|2007-02-22|Belchatow|male|ulica Chopina 664|Sopot|57-006|city|483490418|kornel87@example.com
+66755795651|s13089|Jacek|Gajzler|2007-04-10|Boleslawiec|male|ulica Slowicza 298|Wejherowo|88-576|city|272766063|pwawak@example.com
+59926345160|s30445|Agnieszka|Oszust|2006-10-09|Boleslawiec|female|al. Rozana 34|Straszyn|98-796|countryside|503635928|andrzejjakobik@example.net
+82160670301|s80001|Antoni|Brozda|2006-07-22|Nysa|male|al. Robotnicza 04|Straszyn|62-771|countryside|036508559|kuliberdajanina@example.net
+42646457044|s34718|Anastazja|Kolata|2006-07-27|Sroda Wielkopolska|female|ul. Mokra 866|Borkowo|52-387|countryside|917383095|anastazjahein@example.net
+78049278863|s90776|Angelika|Szumacher|2006-06-02|Zambrow|female|aleja Brzechwy 69/02|Wejherowo|80-715|city|583676047|apianka@example.com
+29031411031|s62305|Kamil|Rorat|2006-10-21|Ilawa|male|aleja Zamkowa 57|Sopot|65-084|city|773853486|omaciejko@example.com
+15014836209|s86349|Michal|Hrabia|2006-09-12|Jawor|male|al. Broniewskiego 42|Bogatka|42-402|countryside|733798081|janinapeciak@example.com
+35346408788|s33166|Julianna|Butrym|2006-09-05|Starachowice|female|ulica Slowackiego 97|Wejherowo|26-027|city|042257550|xszymula@example.net
+48580307359|s87862|Sebastian|Lenc|2006-12-23|Wroclaw|male|ul. Bema 561|Sopot|24-025|city|912786971|damian27@example.net
+39597249478|s72207|Kornel|Zmarzly|2007-01-06|Ostrow Wielkopolski|male|aleja Chabrowa 45/66|Wejherowo|02-780|city|623782143|kojderhubert@example.org
+64403691391|s10433|Kornel|Ziegert|2006-11-09|Lubin|male|al. Kraszewskiego 62|Gdansk|17-251|city|857365540|guzdekgaja@example.net
+07452543506|s26613|Aurelia|Trzos|2011-07-23|Lukow|female|plac Towarowa 782|Wejherowo|38-653|city|674744847|julianmielcarz@example.org
+94901740226|s65169|Anita|Kott|2011-06-27|Lubin|female|plac Orzechowa 33/96|Borkowo|98-755|countryside|941648667|jzaborek@example.com
+47073021810|s42831|Mieszko|Solich|2011-11-09|Kalisz|male|plac Bursztynowa 93|Gdansk|16-548|city|916835252|jpiotrowiak@example.net
+75235709373|s39350|Sandra|Paluszak|2012-02-01|Gorzow Wielkopolski|female|ul. Gorna 33/97|Sopot|10-807|city|271386703|kwawrzonek@example.com
+40742523018|s27996|Filip|Borzym|2012-03-17|Olkusz|male|ul. Lesna 77|Wejherowo|07-404|city|145700937|tzadworny@example.net
+97046230146|s50579|Marek|Makurat|2011-09-12|Wagrowiec|male|pl. Osiedlowa 43/30|Gdansk|70-095|city|938326024|fgierek@example.com
+82024813611|s52418|Robert|Szywala|2012-04-05|Ketrzyn|male|ul. Letniskowa 80/71|Sopot|33-843|city|606628048|mateusz81@example.org
+76132032674|s60309|Julian|Rychel|2012-02-03|Bielsko-Biala|male|al. Podwale 60/36|Borkowo|41-150|countryside|501524326|yboba@example.net
+77110532597|s79215|Marika|Ciezka|2011-09-06|Ostroleka|female|aleja Gajowa 469|Sopot|92-255|city|609437091|xleoniuk@example.net
+25681735469|s81576|Tadeusz|Leonowicz|2012-03-31|Koszalin|male|plac Mazurska 781|Gdynia|51-684|city|125832243|lidiarzonca@example.com
+20172572091|s34722|Robert|Stebel|2012-02-03|Krosno|male|ulica Zielona 84|Gdynia|53-311|city|514564515|jankrysik@example.org
+78848487992|s42180|Lukasz|Fronia|2011-11-06|Gliwice|male|ul. Rolnicza 07/67|Straszyn|57-804|countryside|754598005|julitakierat@example.org
+26369444300|s07139|Ada|Zapora|2012-03-24|Legionowo|female|al. Jezynowa 708|Straszyn|96-875|countryside|684512908|kacper03@example.org
+90185199142|s58688|Julian|Juraszczyk|2012-02-23|Lubin|male|ulica Morska 92/04|Straszyn|43-471|countryside|875503632|soltanjanina@example.org
+99565420017|s21431|Klara|Piekart|2011-09-08|Kutno|female|plac Kopernika 146|Straszyn|09-221|countryside|712123933|albert12@example.com
+11018224401|s70812|Jacek|Zero|2011-11-22|Sieradz|male|plac Narutowicza 37/74|Straszyn|90-003|countryside|356031829|jedrzej86@example.org
+95428126259|s08625|Maurycy|Gebauer|2012-02-18|Ilawa|male|ul. Jasminowa 505|Sopot|69-263|city|679735514|anielasojda@example.org
+20903115273|s52825|Rafal|Och|2012-01-08|Radomsko|male|aleja Czarnieckiego 549|Sopot|09-156|city|140946143|jerzy62@example.org
+68436138485|s13775|Lukasz|Franik|2011-11-01|Chrzanow|male|al. Gajowa 46/72|Gdynia|88-312|city|269178002|mozieblo@example.com
+91261054721|s24648|Cezary|Laszczyk|2011-06-16|Zielona Gora|male|aleja Labedzia 40|Borkowo|45-003|countryside|260178793|olaf49@example.org
+47435412555|s93066|Gabriel|Drozdzik|2011-05-19|Mlawa|male|ul. Torunska 58|Sopot|96-839|city|397321205|anastazjadyka@example.org
+42895692490|s08662|Albert|Pyziak|2012-02-05|Radomsko|male|ulica Srednia 192|Straszyn|54-090|countryside|210257652|marikagroborz@example.com
+56773519665|s67622|Marianna|Flieger|2011-09-18|Sroda Wielkopolska|female|aleja Gorska 63|Wejherowo|87-762|city|322795553|nataniel66@example.net
+68860484512|s22656|Radoslaw|Prokopiak|2012-03-06|Starachowice|male|pl. Dojazdowa 70|Wejherowo|49-359|city|574867204|pprzenioslo@example.org
+31766428880|s97747|Dominik|Podeszwa|2012-04-20|Krotoszyn|male|plac Konstytucji 3 Maja 80|Wejherowo|81-948|city|196474281|ipolakiewicz@example.org
+92780168797|s33504|Blanka|Koczy|2012-02-01|Cieszyn|female|ul. Kilinskiego 12/79|Sopot|99-268|city|699135978|danielmirga@example.org
+68623928332|s90890|Blazej|Darul|2012-02-15|Kolo|male|plac Krolewska 24/73|Gdynia|71-990|city|343021707|bartlomiejczykleon@example.com
+67894649119|s57406|Jacek|Misiurek|2012-04-15|Ketrzyn|male|al. Walowa 16|Gdynia|16-279|city|198588616|franciszek93@example.com
+45054064111|s57946|Adrianna|Kaczka|2012-04-23|Tarnowskie Gory|female|plac Brzechwy 05|Bogatka|66-139|countryside|350867522|mateusz89@example.com
+54983919255|s78418|Iwo|Judek|2011-07-17|Olawa|male|aleja Jasna 889|Sopot|59-666|city|868999111|janoszekandrzej@example.com
+42647069353|s17822|Radoslaw|Dudala|2011-07-28|Jaslo|male|aleja Chmielna 79/22|Gdansk|46-791|city|757350706|erykostapczuk@example.org
+49014065032|s92376|Tomasz|Frania|2011-07-23|Myszkow|male|aleja Morelowa 226|Wejherowo|16-207|city|747671786|antoni78@example.com
+09949238635|s50352|Sandra|Michalkiewicz|2011-10-09|Myslowice|female|pl. Rejtana 98|Borkowo|95-979|countryside|191984468|grocholaantoni@example.com
+57812767870|s12594|Liwia|Piwowarek|2011-09-09|Kluczbork|female|ulica Krakowska 793|Borkowo|98-842|countryside|963732104|alex09@example.org
+88727173449|s27639|Albert|Kniec|2011-10-19|Skawina|male|pl. Kraszewskiego 26|Borkowo|34-121|countryside|130174858|aureliazbrzezniak@example.com
+38316663905|s52746|Szymon|Bartus|2011-12-25|Elblag|male|pl. Szarych Szeregow 194|Gdynia|35-262|city|325988212|odenkiewicz@example.org
+51155636137|s94603|Damian|Lepa|2011-07-23|Nowy Sacz|male|ulica Targowa 785|Straszyn|89-205|countryside|064743105|leon01@example.com
+71716318105|s24661|Tymoteusz|Woronko|2011-06-18|Ciechanow|male|ul. Narcyzowa 30/72|Bogatka|45-006|countryside|998125376|minkinamarianna@example.net
+49746555531|s10298|Aniela|Trzyna|2011-07-25|Bytom|female|pl. Sklodowskiej-Curie 55/89|Wejherowo|03-531|city|071017385|twita@example.com
+13999395009|s05370|Jozef|Giec|2012-02-05|Legionowo|male|pl. Jarzebinowa 73|Gdansk|63-924|city|654319353|natasza35@example.com
+77468848150|s80593|Gustaw|Kowaluk|2012-04-27|Marki|male|aleja Jagodowa 270|Bogatka|10-202|countryside|211953106|cheba@example.org
+07696770422|s08506|Jakub|Wdowczyk|2011-06-23|Swidnica|male|plac Magnoliowa 288|Bogatka|44-330|countryside|762581976|roza31@example.net
+53527565359|s40504|Julita|Kijanka|2011-10-05|Gniezno|female|ul. Konopnickiej 39|Straszyn|89-979|countryside|586932075|jedrzejwajdzik@example.org
+33777214791|s69581|Kaja|Przenioslo|2011-09-03|Klodzko|female|plac Jarzebinowa 437|Straszyn|05-861|countryside|130076835|wmacias@example.com
+27045250411|s21483|Roza|Brus|2011-05-26|Tarnobrzeg|female|ulica Narcyzowa 920|Gdansk|63-683|city|919769984|ukubanek@example.net
+08399970960|s88548|Natan|Przewozny|2011-12-13|Otwock|male|ul. Cyprysowa 92|Borkowo|69-345|countryside|886955818|namyslogaja@example.net
+78755203436|s67969|Iwo|Brygola|2011-07-02|Turek|male|plac Przechodnia 120|Straszyn|21-772|countryside|136399243|rkubiaczyk@example.com
+54099596766|s04992|Kornelia|Wywial|2011-08-18|Nowy Dwor Mazowiecki|female|pl. Szafirowa 028|Sopot|22-211|city|684964854|marcinmedrala@example.net
+49615565416|s30869|Albert|Slipek|2011-11-26|Krotoszyn|male|plac Srednia 12/93|Sopot|69-745|city|651950221|soliwodanela@example.net
+59647218580|s67477|Lukasz|Gryciuk|2011-08-29|Chojnice|male|ulica Starowiejska 664|Bogatka|57-926|countryside|500429979|apolonia28@example.net
+71865886992|s70237|Sandra|Babel|2011-11-09|Kalisz|female|plac Kreta 145|Straszyn|17-681|countryside|632505519|luksmarcelina@example.net
+35627290121|s95239|Krzysztof|Kalisiak|2011-12-07|Radom|male|al. Gajowa 26|Gdynia|04-659|city|000373733|suchojadmalwina@example.net
+86264433231|s93655|Marianna|Betlej|2011-12-14|Inowroclaw|female|plac Wypoczynkowa 585|Gdynia|10-351|city|176381037|dorotabytner@example.net
+83303853479|s67759|Witold|Barej|2011-06-11|Szczecin|male|ulica Makuszynskiego 64/76|Wejherowo|64-485|city|029057992|fkostorz@example.com
+18862272806|s31839|Milosz|Gorkiewicz|2011-12-03|Nowy Targ|male|ulica Kolorowa 942|Gdynia|24-123|city|309140448|lsiwczak@example.org
+92920260562|s66656|Klara|Karsznia|2011-09-12|Zawiercie|female|al. Srodkowa 73/69|Borkowo|47-174|countryside|969104666|sonia22@example.net
+67799161594|s99257|Stefan|Igras|2011-09-11|Legionowo|male|aleja Rolna 383|Straszyn|25-984|countryside|496246284|kignatiuk@example.org
+70268921941|s46491|Filip|Zadka|2011-11-25|Lubon|male|aleja Widok 70|Wejherowo|79-403|city|999863188|aleksaugustynek@example.org
+18242153606|s72647|Milosz|Salomon|2011-09-12|Bialogard|male|pl. Srebrna 899|Borkowo|06-503|countryside|606170120|lpiaseczna@example.org
+56437354187|s75416|Karol|Klin|2012-04-02|Pruszcz Gdanski|male|ul. Wojciecha 35/53|Gdansk|81-802|city|311232817|wawszczakryszard@example.net
+17328710633|s21019|Dariusz|Kobos|2011-12-31|Swiecie|male|pl. Batalionow Chlopskich 401|Sopot|85-328|city|704652932|kamil85@example.com
+30302955950|s53472|Konrad|Fiedoruk|2012-03-10|Zyrardow|male|ul. Zielna 917|Straszyn|11-708|countryside|562553602|uirla@example.com
+91915370278|s47943|Kornelia|Jalowiec|2012-04-24|Tarnow|female|ul. Plazowa 37/09|Straszyn|01-748|countryside|106680863|domiankajetan@example.net
+31829312317|s30734|Jan|Wesoly|2011-06-02|Gorzow Wielkopolski|male|ul. Rzemieslnicza 13|Sopot|38-423|city|360927965|witolddomek@example.com
+47177699598|s52006|Blanka|Szostak|2011-10-13|Rumia|female|plac Lawendowa 65/04|Sopot|15-945|city|217555975|maciej77@example.com
+09160858653|s73954|Alan|Bulczak|2011-07-23|Dzierzoniow|male|aleja Powstancow Wielkopolskich 09/78|Borkowo|85-691|countryside|540109319|mateusz80@example.org
+50994689429|s19496|Aleksander|Rozynek|2011-11-13|Radom|male|aleja Cmentarna 05|Wejherowo|38-712|city|232527664|orykala@example.com
+16936114405|s83359|Natan|Kluj|2012-03-22|Plock|male|ulica Rolna 844|Borkowo|17-712|countryside|518511065|agnieszkajanic@example.com
+11368716042|s61242|Nataniel|Kawiak|2011-08-30|Zambrow|male|ul. Kaszubska 28|Gdynia|40-941|city|779100321|anna-mariablaziak@example.org
+34386630376|s38424|Dawid|Dziuda|2011-10-20|Szczecinek|male|al. Makowa 13/57|Gdansk|79-040|city|700565557|krakowczykgaja@example.net
+12397890171|s88571|Arkadiusz|Mytych|2011-12-20|Zdunska Wola|male|plac Kasztanowa 315|Gdansk|30-547|city|832283404|janbogusiewicz@example.net
+06816316490|s43364|Anita|Drobik|2012-02-27|Skawina|female|al. Brzozowa 94|Straszyn|34-937|countryside|485017019|brzakalaadrian@example.com

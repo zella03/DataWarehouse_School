@@ -1,0 +1,8 @@
+SELECT 
+{[Measures].[Number of attendance facts]} ON COLUMNS,
+NON EMPTY {[STUDENT].[Age Category].Members} ON ROWS
+FROM [SCHOOL DW]
+WHERE (
+    [DATE].[Year].[2023], 
+    [JUNK2].[Attendance Check].[absent]
+)

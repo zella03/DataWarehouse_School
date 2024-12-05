@@ -1,0 +1,11 @@
+SELECT
+  {
+    [Measures].[Grade point average],
+    [Measures].[Number of attendance facts]
+  } ON COLUMNS,
+  NON EMPTY [STUDENT].[Student Num].MEMBERS ON ROWS
+FROM
+  [SCHOOL DW]
+WHERE
+	([DATE].[Year].[2023],
+	[JUNK2].[Attendance Check].[absent])
