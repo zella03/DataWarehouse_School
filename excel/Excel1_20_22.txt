@@ -1,0 +1,57 @@
+20296703774|e5068m|Piotr|Kazubek|male|teacher|aleja Orkana 48/26|Wejherowo|91-324|591067872|@school.com|2017-08-19|
+84440959571|e9308m|Sylwia|Oleszczak|female|teacher|plac Krasickiego 502|Gdansk|65-893|479880280|e5068m@school.com|2018-05-26|
+49005203542|e0790m|Grzegorz|Broniek|male|teacher|al. Ksiezycowa 025|Straszyn|77-409|150982451|e9308m@school.com|2018-05-16|
+92706606834|e8102m|Wiktor|Pasieczna|male|teacher|pl. Gajowa 53/39|Straszyn|63-448|751063630|e0790m@school.com|2017-07-03|
+27273270571|e6706m|Urszula|Nitek|female|teacher|plac Okrezna 43/50|Gdansk|48-455|147831286|e8102m@school.com|2018-05-20|
+15293265663|e4770o|Kalina|Grygorcewicz|female|teacher|ulica Mala 48/47|Wejherowo|76-400|256832506|e6706m@school.com|2018-12-31|
+65773208053|e2162o|Cyprian|Reimann|male|teacher|aleja Tartaczna 34|Sopot|22-439|934645049|e4770o@school.com|2017-10-17|
+91304572893|e9054o|Fryderyk|Dorobisz|male|teacher|ul. Tulipanowa 146|Wejherowo|51-610|810833151|e2162o@school.com|2018-09-15|
+59023176746|e7539o|Dorota|Pruchnik|female|teacher|al. Spokojna 75/93|Gdansk|14-344|218893886|e9054o@school.com|2018-11-07|
+85653641826|e1547o|Aniela|Fik|female|teacher|aleja Torowa 68|Gdansk|22-977|136296211|e7539o@school.com|2019-03-01|
+32641922924|e7948e|Malwina|Gagala|female|teacher|plac Mlynarska 53|Gdynia|98-601|739024826|e1547o@school.com|2018-11-16|
+31984799344|e9258e|Norbert|Lenda|male|teacher|ul. Okulickiego 337|Gdynia|89-497|503501321|e7948e@school.com|2018-09-01|
+30758979709|e7874e|Nikodem|Lesner|male|teacher|al. Kasprowicza 123|Gdansk|30-658|629947268|e9258e@school.com|2018-12-01|
+52269634271|e0041e|Artur|Wojciech|male|teacher|plac Morcinka 41/89|Gdynia|15-375|305918957|e7874e@school.com|2018-09-10|
+81230813907|e1542e|Milosz|Franas|male|teacher|al. Cisowa 46/47|Straszyn|28-806|680686273|e0041e@school.com|2018-08-28|
+69609385318|e2802s|Alex|Uzar|male|teacher|pl. Dobra 26/66|Sopot|73-873|980058587|e1542e@school.com|2019-01-23|
+43889745306|e5747s|Lidia|Poleszak|female|teacher|ul. Pilsudskiego 85|Straszyn|61-084|667440105|e2802s@school.com|2017-10-06|
+16229838080|e3033s|Julita|Szwaja|female|teacher|al. Zrodlana 01/95|Wejherowo|26-129|934824202|e5747s@school.com|2018-11-13|
+80798831770|e5612s|Tomasz|Misko|male|teacher|ulica Ptasia 59|Wejherowo|95-716|766939628|e3033s@school.com|2018-07-26|
+97703587497|e6154s|Ryszard|Drazyk|male|teacher|al. Norwida 58/75|Gdansk|08-875|688722246|e5612s@school.com|2017-09-19|
+56361063368|e0285g|Tymon|Szwaj|male|teacher|aleja Skargi 40|Straszyn|64-280|955163442|e6154s@school.com|2018-03-26|
+62938224485|e1150g|Eryk|Mortka|male|teacher|plac Gajowa 13|Straszyn|84-037|600723761|e0285g@school.com|2018-04-06|
+01125907105|e9202g|Inga|Piszcz|female|teacher|ul. Mlynska 016|Wejherowo|17-130|473115173|e1150g@school.com|2017-08-21|
+99710059805|e4062g|Tomasz|Kolarz|male|teacher|al. Konarskiego 838|Sopot|78-388|500510900|e9202g@school.com|2019-04-06|
+23532782373|e0090g|Tomasz|Tomzik|male|teacher|al. Targowa 11/23|Gdynia|70-130|347552910|e4062g@school.com|2017-08-18|
+88082639469|e1968w|Dorota|Lewko|female|teacher|ul. Poniatowskiego 99|Straszyn|29-533|698733592|e0090g@school.com|2018-07-14|
+84875294018|e7040w|Ernest|Kinal|male|teacher|aleja Nowowiejska 377|Sopot|92-678|697506277|e1968w@school.com|2018-11-21|
+54501145824|e9189w|Angelika|Mik|female|teacher|ul. Wybickiego 77|Sopot|08-862|149750003|e7040w@school.com|2018-10-12|
+37434173113|e5195w|Emil|Kuffel|male|teacher|aleja Widokowa 99/26|Gdynia|61-354|929947387|e9189w@school.com|2017-07-31|
+04580468671|e3511w|Juliusz|Szyba|male|teacher|plac Kochanowskiego 68|Gdansk|03-928|930255709|e5195w@school.com|2018-05-21|
+74340211691|e0586h|Oskar|Kulon|male|teacher|ul. Kochanowskiego 56|Gdynia|20-299|981054668|e3511w@school.com|2017-10-25|
+95565446628|e7442h|Leonard|Laszcz|male|teacher|al. Szewska 13/03|Sopot|58-449|861662359|e0586h@school.com|2018-09-14|
+46957181810|e4172h|Stefan|Posluszny|male|teacher|ul. Kossaka 675|Wejherowo|50-592|901773517|e7442h@school.com|2018-02-15|
+10912658547|e4468h|Maksymilian|Madziar|male|teacher|aleja Liliowa 039|Sopot|68-339|388709772|e4172h@school.com|2019-05-06|
+16233033747|e0536h|Klara|Czerkies|female|teacher|plac Sawickiej 484|Gdynia|05-210|097575907|e4468h@school.com|2017-09-22|
+22416687641|e7522p|Natan|Wielgo|male|teacher|ulica Kasprowicza 19/91|Sopot|99-132|073932595|e0536h@school.com|2018-01-12|
+09544630204|e5662p|Sandra|Gruchot|female|teacher|al. Wiatraczna 526|Sopot|72-835|695157371|e7522p@school.com|2018-03-05|
+37677759223|e4101p|Gaja|Wygoda|female|teacher|plac Borowkowa 81|Sopot|04-229|037368337|e5662p@school.com|2018-09-17|
+57152998744|e1081p|Ewelina|Branka|female|teacher|plac Brzechwy 57/68|Gdynia|95-922|991876235|e4101p@school.com|2017-11-05|
+04744238826|e8783p|Dagmara|Bialka|female|teacher|ul. Chopina 276|Wejherowo|74-470|900281388|e1081p@school.com|2017-11-17|
+02545633719|e3803i|Leonard|Blaszyk|male|teacher|ulica Zabia 39|Wejherowo|20-430|849640849|e8783p@school.com|2018-12-28|
+68287338238|e0360i|Kajetan|Ciapa|male|teacher|pl. Dobra 13/69|Gdynia|39-990|309495145|e3803i@school.com|2019-05-06|
+31379897671|e5635i|Grzegorz|Trochim|male|teacher|aleja Widokowa 094|Straszyn|03-970|574077294|e0360i@school.com|2017-12-05|
+27291388267|e2857i|Maciej|Drozdzal|male|teacher|al. Dluga 83/46|Wejherowo|37-797|647906115|e5635i@school.com|2019-01-14|
+77921629869|e9215i|Adrianna|Loska|female|teacher|aleja Jasna 787|Gdansk|87-337|045341142|e2857i@school.com|2019-02-06|
+10739904875|e7413m|Filip|Tymczyszyn|male|teacher|pl. Diamentowa 770|Gdansk|67-719|863353234|e9215i@school.com|2019-05-15|
+68665472514|e9506a|Norbert|Kumorek|male|teacher|pl. Slowianska 649|Sopot|20-575|878445087|e7413m@school.com|2018-04-11|
+56088669848|e5468r|Janina|Gierasimiuk|female|teacher|ul. Warszawska 019|Straszyn|57-318|229472218|e9506a@school.com|2018-03-02|
+81379923249|e79503|Liwia|Grochowina|female|cook|al. Odrzanska 313|Gdynia|88-144|465763797|e5468r@school.com|2018-02-26|
+33566778208|e91541|Radoslaw|Rudyk|male|cook|al. Maja 203|Gdynia|61-964|120763393|e79503@school.com|2017-09-25|
+45176693741|e92725|Roza|Szczypior|female|cook|al. Lawendowa 48|Sopot|21-356|406120295|e91541@school.com|2019-03-28|
+85008658705|e38127|Adam|Osica|male|cook|ulica Wiosenna 60|Gdynia|95-396|537673801|e92725@school.com|2018-03-09|
+92755539250|e48783|Adrian|Litewka|male|cook|ul. Fiolkowa 75/28|Straszyn|35-436|843919735|e38127@school.com|2019-01-19|
+13210157339|e11258|Antoni|Tabak|male|cook|ul. Wladyslawa Jagielly 812|Straszyn|68-029|791187841|e48783@school.com|2018-05-31|
+21631187390|e38759|Elzbieta|Szpyra|female|cloakroom staff|al. Galczynskiego 226|Gdansk|43-867|088634630|e11258@school.com|2019-01-23|
+53127822462|e71944|Ignacy|Szymajda|male|cloakroom staff|aleja Orzechowa 31|Sopot|86-131|363738003|e38759@school.com|2018-01-09|
+12495345503|e32174|Szymon|Kudelka|male|cloakroom staff|al. Cmentarna 65/83|Wejherowo|71-488|069187432|e71944@school.com|2017-12-27|
